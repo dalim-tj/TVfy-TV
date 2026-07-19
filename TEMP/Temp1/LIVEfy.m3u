@@ -1,0 +1,42 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="https://i.imgur.com/f7yD8S0.png" tvg-chno="" group-title="ENTERTAINMENT",BTV (A-S1)
+http://10.30.30.30:8088/BTV_HD_2/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="https://i.imgur.com/f7yD8S0.png" tvg-chno="" group-title="ENTERTAINMENT",BTV (A-S2)
+http://10.30.30.30:8088/BTV.HD_KSB/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="https://i.imgur.com/f7yD8S0.png" tvg-chno="" group-title="ENTERTAINMENT",BTV (MM-S)
+http://cdn.moviemazic.xyz:8083/btv/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="https://i.imgur.com/f7yD8S0.png" tvg-chno="" group-title="ENTERTAINMENT",BTV (BDIX S1)
+http://103.165.93.31:8095/btv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="https://i.imgur.com/f7yD8S0.png" tvg-chno="" group-title="ENTERTAINMENT",BTV (BDIX S2)
+http://114.130.57.233:8080/BTV-HD/playlist.m3u8?token=SkQuhAXZxgBan1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="https://i.imgur.com/f7yD8S0.png" tvg-chno="" group-title="ENTERTAINMENT",BTV (BDIX API)
+https://tv.bdixbd.net/api/proxy/stream.m3u8?url=http%3A%2F%2F103.151.60.204%3A881%2FBTV%2Ftracks-v1a1%2Fmono.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="https://i.imgur.com/6IRlRWe.png" tvg-chno="" group-title="SPORTS",T Sports
+http://tv.cloudcdn.me:80/live.ts?channelId=48010&uid=10016&deviceMac=00:1A:79:20:6F:F3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="https://i.imgur.com/6IRlRWe.png" tvg-chno="" group-title="SPORTS",T Sports (A-S1)
+http://10.30.30.30:8088/T_SPORTS_HD/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="https://i.imgur.com/6IRlRWe.png" tvg-chno="" group-title="SPORTS",T Sports (A-S2)
+http://10.30.30.30:8088/T-SPORTS-HD_KSB_2/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="https://i.imgur.com/6IRlRWe.png" tvg-chno="" group-title="SPORTS",T Sports (MM-S)
+http://cdn.moviemazic.xyz:8083/TSportsHD/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="https://i.imgur.com/6IRlRWe.png" tvg-chno="" group-title="SPORTS",T Sports (BDIX S1)
+http://103.165.93.31:8095/tsports/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="https://i.imgur.com/6IRlRWe.png" tvg-chno="" group-title="SPORTS",T Sports (BDIX S2)
+http://114.130.57.233:8080/TsportHD/playlist.m3u8?token=SkQuhAXZxgBan1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="https://i.imgur.com/6IRlRWe.png" tvg-chno="" group-title="SPORTS",T Sports (BDIX API)
+https://tv.bdixbd.net/api/proxy/stream.m3u8?url=http%3A%2F%2F103.151.61.12%2Ftv.bdixbd.net%2Ftracks-v1a1a2%2Fmono.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="https://i.imgur.com/SqhqpxF.png" tvg-chno="" group-title="NEWS",Somoy TV (A-S)
+http://10.30.30.30:8088/SOMOY_TV_2/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="https://i.imgur.com/SqhqpxF.png" tvg-chno="" group-title="NEWS",Somoy TV (MM-S)
+http://cdn.moviemazic.xyz:8083/SomoyTv/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="https://i.imgur.com/SqhqpxF.png" tvg-chno="" group-title="NEWS",Somoy TV (BDIX S1)
+http://103.165.93.31:8095/somoyTv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="https://i.imgur.com/SqhqpxF.png" tvg-chno="" group-title="NEWS",Somoy TV (BDIX S2)
+http://114.130.57.233:8080/Somoy-TV-3Mb/playlist.m3u8?token=SkQuhAXZxgBan1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="https://i.imgur.com/SqhqpxF.png" tvg-chno="" group-title="NEWS",Somoy TV (BDIX API)
+https://tv.bdixbd.net/api/proxy/stream.m3u8?url=http%3A%2F%2F103.151.60.204%3A881%2FSomoy-tv%2Ftracks-v1a1%2Fmono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="https://i.imgur.com/SqhqpxF.png" tvg-chno="" group-title="NEWS",Somoy TV (TBT)
+https://live.thebosstv.com:30443/dwlive/Somoy-TV/playlist.m3u8
