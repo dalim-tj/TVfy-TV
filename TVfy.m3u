@@ -256,13 +256,10 @@ http://tv.cloudcdn.me:80/live.ts?channelId=105349&uid=10016&deviceMac=00:1A:79:2
 http://tv.cloudcdn.me:80/live.ts?channelId=128485&uid=10016&deviceMac=00:1A:79:20:6F:F3
 
 
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="https://i.imgur.com/vvimDiC.png" tvg-chno="" group-title="BANGLA DRAMA",G Series
 https://vods2.aynaott.com/gseriesDrama/index.m3u8
 
 
-
-───────────── SAMPLE ─────────────
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="https://i.imgur.com/xnvVaS4.png" tvg-chno="" group-title="CATEGORY",TV Name
 https://your-domain.com/live/index.m3u8
@@ -270,31 +267,22 @@ https://your-domain.com/live/index.m3u8
 https://your-domain.com/movies/movieone.mp4
 
 
-───────────── Bangla Movies ─────────────
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="https://i.imgur.com/9L0oLMH.png" tvg-chno="" group-title="BANGLA MOVIES",Movie Name
 https://your-domain.com/movies/movieone.mp4
 
 
-───────────── Bangla Dubbed ─────────────
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="https://i.imgur.com/9L0oLMH.png" tvg-chno="" group-title="BANGLA DUBBED",Movie Name
 https://your-domain.com/movies/movieone.mp4
 
-
-───────────── Hindi Movies ─────────────
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="https://i.imgur.com/9L0oLMH.png" tvg-chno="" group-title="HINDI MOVIES",Movie Name
 https://your-domain.com/movies/movieone.mp4
 
 
-───────────── Hindi Dubbed Movies ─────────────
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="https://i.imgur.com/9L0oLMH.png" tvg-chno="" group-title="HINDI DUBBED MOVIES",Movie Name
 https://your-domain.com/movies/movieone.mp4
 
-
-───────────── English Movies ─────────────
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="https://i.imgur.com/9L0oLMH.png" tvg-chno="" group-title="ENGLISH MOVIES",Movie Name
 https://your-domain.com/movies/movieone.mp4
@@ -312,19 +300,13 @@ https://pub-5fec8fc694d94931914e330ee37acaab.r2.dev/CINEFREAK.NET%20-%20Titanic%
 https://pub-87e02c2f0e8941be964da8513404e392.r2.dev/CINEFREAK.TOP%20-%20Desire%20%282026%29%20WEB-DL%20%5BHindi-English%5D%201080p%20ESub.mkv
 
 
-───────────── Others ─────────────
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="https://i.imgur.com/9L0oLMH.png" tvg-chno="" group-title="OTHERS",Movie Name
 https://your-domain.com/movies/movieone.mp4
 
 
-───────────── TV Series ─────────────
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="https://i.imgur.com/9L0oLMH.png" tvg-chno="" group-title="TV SERIES",Series Name
 https://your-domain.com/series/seriesone.mp4
 
-
-───────────── IMDb Top 250 Movies ─────────────
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="http://172.16.50.14/DHAKA-FLIX-14/IMDb%20Top-250%20Movies/001.%20The%20Shawshank%20Redemption%20%281994%29%201080p%20%5BDual%20Audio%5D/a11.jpg" tvg-chno="" group-title="IMDb Top 250 Movies",001. The Shawshank Redemption (1994) 1080p
 http://172.16.50.14/DHAKA-FLIX-14/IMDb%20Top-250%20Movies/001.%20The%20Shawshank%20Redemption%20%281994%29%201080p%20%5BDual%20Audio%5D/The%20Shawshank%20Redemption%20%281994%29%20REM%201080p%20BluRay%20x265%20HEVC%20ESub%20%5BDual%20Audio%5D%5BHindi%205.1%2BEnglish%205.1%5D%20-OlaM.mkv
@@ -341,22 +323,13 @@ http://172.16.50.14/DHAKA-FLIX-14/IMDb%20Top-250%20Movies/004.%20The%20Godfather
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="http://172.16.50.14/DHAKA-FLIX-14/IMDb%20Top-250%20Movies/005.%2012%20Angry%20Men%20%281957%29%201080p/a11.jpg" tvg-chno="" group-title="IMDb Top 250 Movies",005. 12 Angry Men (1957) 1080p
 http://172.16.50.14/DHAKA-FLIX-14/IMDb%20Top-250%20Movies/005.%2012%20Angry%20Men%20%281957%29%201080p/12%20Angry%20Men%20%281957%29%201080p%20BluRay%20x265%20HEVC%2010bit%20AAC%201.0%20ESub-Silence.mkv
 
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="" tvg-chno="" group-title="IMDb Top 250 Movies",
-https://your-domain.com/movies/movieone.mp4
-
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="http://172.16.50.14/DHAKA-FLIX-14/IMDb%20Top-250%20Movies/250.%20Paris%2C%20Texas%20%281984%29%201080p/a11.jpg" tvg-chno="" group-title="IMDb Top 250 Movies",250. Paris, Texas (1984) 1080p
 http://172.16.50.14/DHAKA-FLIX-14/IMDb%20Top-250%20Movies/250.%20Paris%2C%20Texas%20%281984%29%201080p/Paris%2C%20Texas%20%281984%29%20RM4K%201080p%20BluRay%20x265%20HEVC%2010bit%20AAC%205.1%20MSubs-Tigole.mkv
 
 
-───────────── VOD Movies ─────────────
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="http://172.16.50.14/DHAKA-FLIX-14/English%20Movies%20%281080p%29/%281997%29%201080p/Titanic%20%281997%29%201080p/a0_AL_.jpg" tvg-chno="" group-title="MOVIES",Titanic (1997) 1080p BluRay
 http://172.16.50.14/DHAKA-FLIX-14/English%20Movies%20%281080p%29/%281997%29%201080p/Titanic%20%281997%29%201080p/Titanic%20%281997%29%201080p%20BluRay%20x265%20HEVC%2010bit%20AAC%205.1%20MSubs-Silence.mkv
 
-
-───────────── VOD Series ─────────────
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="http://172.16.50.12/DHAKA-FLIX-12/TV-WEB-Series/TV%20Series%20%E2%99%A5%20%20A%20%20%E2%80%94%20%20L/Game%20of%20Thrones%20%28TV%20Series%202011%E2%80%932019%29%201080p%20%5BDual%20Audio%5D/a_VL_.jpg" tvg-chno="" group-title="SERIES",Game of Thrones
 http://172.16.50.12/DHAKA-FLIX-12/TV-WEB-Series/TV%20Series%20%E2%99%A5%20%20A%20%20%E2%80%94%20%20L/Game%20of%20Thrones%20%28TV%20Series%202011%E2%80%932019%29%201080p%20%5BDual%20Audio%5D/Season%208/Game%20of%20Thrones%20S08E06%20%201080p%20BluRay%20x265%20HEVC%20ESub%20%5BDual%20Audio%5D%5BHindi%202.0%2BEnglish%207.1%5D%20-mkvC.mkv
