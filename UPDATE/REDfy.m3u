@@ -1,7 +1,5 @@
 #EXTM3U
 
-#───────────── Sister ─────────────
-
 #EXTINF:-1 group-title="Sister" tvg-logo="https://i.imgur.com/6sEsebQ.png",Sister 1
 http://zxonetv01.xyz:8080/live/a2512hzW/gBtZz7U/850084.ts
 
@@ -17,7 +15,7 @@ http://zxonetv01.xyz:8080/live/a2512hzW/gBtZz7U/856130.ts
 #EXTINF:-1 group-title="Sister" tvg-logo="https://i.imgur.com/6sEsebQ.png",Sister 5
 http://zxonetv01.xyz:8080/live/a2512hzW/gBtZz7U/856154.ts
 
-#───────────── Step ─────────────
+
 
 #EXTINF:-1 group-title="Step" tvg-logo="https://i.imgur.com/6sEsebQ.png",Step 1
 http://zxonetv01.xyz:8080/live/a2512hzW/gBtZz7U/849928.ts
@@ -25,7 +23,7 @@ http://zxonetv01.xyz:8080/live/a2512hzW/gBtZz7U/849928.ts
 #EXTINF:-1 group-title="Step" tvg-logo="https://i.imgur.com/6sEsebQ.png",Step 2
 http://zxonetv01.xyz:8080/live/a2512hzW/gBtZz7U/855885.ts
 
-#───────────── Family ─────────────
+
 
 #EXTINF:-1 group-title="Family" tvg-logo="https://i.imgur.com/6sEsebQ.png",Family 1
 http://zxonetv01.xyz:8080/live/a2512hzW/gBtZz7U/850153.ts
@@ -87,7 +85,7 @@ http://zxonetv01.xyz:8080/live/a2512hzW/gBtZz7U/855775.ts
 #EXTINF:-1 group-title="Family" tvg-logo="https://i.imgur.com/6sEsebQ.png",Family 20
 http://zxonetv01.xyz:8080/live/a2512hzW/gBtZz7U/855786.ts
 
-#───────────── Mom ─────────────
+
 
 #EXTINF:-1 group-title="Mom" tvg-logo="https://i.imgur.com/6sEsebQ.png",Mom 1
 http://zxonetv01.xyz:8080/live/a2512hzW/gBtZz7U/855763.ts
@@ -140,7 +138,7 @@ http://zxonetv01.xyz:8080/live/a2512hzW/gBtZz7U/850155.ts
 #EXTINF:-1 group-title="Mom" tvg-logo="https://i.imgur.com/6sEsebQ.png",Mom 17
 http://zxonetv01.xyz:8080/live/a2512hzW/gBtZz7U/850133.ts
 
-#───────────── Porn Star ─────────────
+
 
 #EXTINF:-1 group-title="Porn Star" tvg-logo="https://i.imgur.com/6sEsebQ.png", Eva Elfie
 http://zxonetv01.xyz:8080/live/a2512hzW/gBtZz7U/856099.ts
@@ -149,7 +147,7 @@ http://zxonetv01.xyz:8080/live/a2512hzW/gBtZz7U/856099.ts
 #EXTINF:-1 group-title="Porn Star" tvg-logo="https://i.imgur.com/6sEsebQ.png", Mia Khalifa
 http://zxonetv01.xyz:8080/live/yr2s1MD9/eybyaB4RNSqh/850160.ts
 
-#───────────── Fantasy ─────────────
+
 
 #EXTINF:-1 group-title="Fantasy" tvg-logo="https://i.imgur.com/6sEsebQ.png", Cosplay
 http://zxonetv01.xyz:8080/live/a2512hzW/gBtZz7U/856137.ts
@@ -157,7 +155,7 @@ http://zxonetv01.xyz:8080/live/a2512hzW/gBtZz7U/856137.ts
 #EXTINF:-1 group-title="Fantasy" tag="https://i.imgur.com/6sEsebQ.png", Hentai
 http://zxonetv01.xyz:8080/live/a2512hzW/gBtZz7U/856071.ts
 
-#───────────── Other ─────────────
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6sEsebQ.png" group-title="ADULT 18+",Big Ass (18+)
 http://live.redtraffic.xyz/bigass.m3u8
@@ -334,6 +332,7 @@ http://live-1.otcnet.ru/shelkhdmts/playlist.m3u8
 https://stream.visit-x.tv/vxtv/live/playlist.m3u8
 #EXTINF:-1 tvg-id="XXXCartoons.de" tvg-logo="https://i.imgur.com/kNYY78z.png" group-title="Animation;XXX",XXX Cartoons (520p)
 http://144.76.58.245:2307/cartoon/index.m3u8
+
 
 #EXTINF:-1 tvg-id="Japan" tvg-logo="https://i.imgur.com/6sEsebQ.png" group-title="XXX",东热01
 https://video1.rhsj520.com/nyrm3/2011225/DR/n0011/index.m3u8
