@@ -559,9 +559,8 @@ https://pub-87e02c2f0e8941be964da8513404e392.r2.dev/CINEFREAK.TOP%20-%20Desire%2
 #───────────── VOD Movies ─────────────
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="https://i.imgur.com/9L0oLMH.png" tvg-chno="" group-title="MOVIES",Movie Name
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="http://172.16.50.14/DHAKA-FLIX-14/English%20Movies%20%281080p%29/%281997%29%201080p/Titanic%20%281997%29%201080p/a0_AL_.jpg" tvg-chno="" group-title="MOVIES",Titanic (1997) 1080p BluRay
-http://172.16.50.14/DHAKA-FLIX-14/English%20Movies%20%281080p%29/%281997%29%201080p/Titanic%20%281997%29%201080p/Titanic%20%281997%29%201080p%20BluRay%20x265%20HEVC%2010bit%20AAC%205.1%20MSubs-Silence.mkv
-
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="http://172.16.50.7/DHAKA-FLIX-7/English%20Movies/%281997%29/Titanic%20%281997%29%20720p%20%5BDual%20Audio%5D/a07_.jpg" tvg-chno="" group-title="MOVIES",Titanic (1997) 720p BluRay
+http://172.16.50.7/DHAKA-FLIX-7/English%20Movies/%281997%29/Titanic%20%281997%29%20720p%20%5BDual%20Audio%5D/Titanic%20%281997%29%20720p%20BluRay%20x264%20ESub%20%5BDual%20Audio%5D%5BHindi%205.1%2BEnglish%205.1%5D%20-mkvC.mkv
 #───────────── VOD Series ─────────────
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="https://i.imgur.com/9L0oLMH.png" tvg-chno="" group-title="SERIES",Series Name
 
