@@ -323,13 +323,21 @@ http://172.16.50.14/DHAKA-FLIX-14/IMDb%20Top-250%20Movies/004.%20The%20Godfather
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="http://172.16.50.14/DHAKA-FLIX-14/IMDb%20Top-250%20Movies/005.%2012%20Angry%20Men%20%281957%29%201080p/a11.jpg" tvg-chno="" group-title="IMDb Top 250 Movies",005. 12 Angry Men (1957) 1080p
 http://172.16.50.14/DHAKA-FLIX-14/IMDb%20Top-250%20Movies/005.%2012%20Angry%20Men%20%281957%29%201080p/12%20Angry%20Men%20%281957%29%201080p%20BluRay%20x265%20HEVC%2010bit%20AAC%201.0%20ESub-Silence.mkv
 
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="" tvg-chno="" group-title="IMDb Top 250 Movies",
+https://your-domain.com/movies/movieone.mp4
+
+
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="http://172.16.50.14/DHAKA-FLIX-14/IMDb%20Top-250%20Movies/250.%20Paris%2C%20Texas%20%281984%29%201080p/a11.jpg" tvg-chno="" group-title="IMDb Top 250 Movies",250. Paris, Texas (1984) 1080p
 http://172.16.50.14/DHAKA-FLIX-14/IMDb%20Top-250%20Movies/250.%20Paris%2C%20Texas%20%281984%29%201080p/Paris%2C%20Texas%20%281984%29%20RM4K%201080p%20BluRay%20x265%20HEVC%2010bit%20AAC%205.1%20MSubs-Tigole.mkv
 
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="http://172.16.50.14/DHAKA-FLIX-14/English%20Movies%20%281080p%29/%281997%29%201080p/Titanic%20%281997%29%201080p/a0_AL_.jpg" tvg-chno="" group-title="MOVIES",Titanic (1997) 1080p BluRay
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="http://172.16.50.14/DHAKA-FLIX-14/English%20Movies%20%281080p%29/%281997%29%201080p/Titanic%20%281997%29%201080p/a0_AL_.jpg" tvg-chno="" group-title="MOVIES",Titanic (1997) 1080p BluRay (VOD)
 http://172.16.50.14/DHAKA-FLIX-14/English%20Movies%20%281080p%29/%281997%29%201080p/Titanic%20%281997%29%201080p/Titanic%20%281997%29%201080p%20BluRay%20x265%20HEVC%2010bit%20AAC%205.1%20MSubs-Silence.mkv
 
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="http://172.16.50.12/DHAKA-FLIX-12/TV-WEB-Series/TV%20Series%20%E2%99%A5%20%20A%20%20%E2%80%94%20%20L/Game%20of%20Thrones%20%28TV%20Series%202011%E2%80%932019%29%201080p%20%5BDual%20Audio%5D/a_VL_.jpg" tvg-chno="" group-title="SERIES",Game of Thrones
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="http://172.16.50.12/DHAKA-FLIX-12/TV-WEB-Series/TV%20Series%20%E2%99%A5%20%20A%20%20%E2%80%94%20%20L/Game%20of%20Thrones%20%28TV%20Series%202011%E2%80%932019%29%201080p%20%5BDual%20Audio%5D/a_VL_.jpg" tvg-chno="" group-title="SERIES",Game of Thrones (VOD)
 http://172.16.50.12/DHAKA-FLIX-12/TV-WEB-Series/TV%20Series%20%E2%99%A5%20%20A%20%20%E2%80%94%20%20L/Game%20of%20Thrones%20%28TV%20Series%202011%E2%80%932019%29%201080p%20%5BDual%20Audio%5D/Season%208/Game%20of%20Thrones%20S08E06%20%201080p%20BluRay%20x265%20HEVC%20ESub%20%5BDual%20Audio%5D%5BHindi%202.0%2BEnglish%207.1%5D%20-mkvC.mkv
