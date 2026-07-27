@@ -124,6 +124,8 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/index.m3u8
 https://owrcovcrpy.gpcdn.net/bpk-tv/1724/output/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="https://i.imgur.com/zjYVfG0.png" tvg-chno="" group-title="NEWS",ATN News
 https://owrcovcrpy.gpcdn.net/bpk-tv/1706/output/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="https://i.imgur.com/SqhqpxF.png" tvg-chno="" group-title="NEWS",Somoy TV
+https://owrcovcrpy.gpcdn.net/bpk-tv/1713/output/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="https://i.imgur.com/SqhqpxF.png" tvg-chno="" group-title="NEWS",Somoy TV (A-S1)
 http://10.30.30.30:8088/SOMOY.TV.HD/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="https://i.imgur.com/SqhqpxF.png" tvg-chno="" group-title="NEWS",Somoy TV (A-S2)
@@ -158,6 +160,8 @@ http://163.172.64.96:2017/live/GBa19qrcQYa3/u2c8FLfgkK/234.ts
 http://wickediptv.xyz/Randall123/Randall321/53842.ts
 
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="https://i.imgur.com/xnvVaS4.png" tvg-chno="" group-title="INDIAN BANGLA",SRK TV
+https://srknowapp.ncare.live/srktvhlswodrm/srktv.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="https://i.imgur.com/JyIdI6O.png" tvg-chno="" group-title="INDIAN BANGLA",STAR JALSHA
 http://cdn.moviemazic.xyz:8083/StarJalshaHD/index.m3u8
 
@@ -199,7 +203,7 @@ http://cdn.moviemazic.xyz:8083/Feedget/SonyEntertainmentTelevisionHD_9/index.m3u
 http://cdn.moviemazic.xyz:8083/Feedget/SonyMAX_37/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="https://i.imgur.com/K4bLVua.png" tvg-chno="" group-title="INDIAN ENTERTAINMENT",HBO
 http://103.213.31.111/HBOHD/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="https://i.imgur.com/Sjin54w.png" tvg-chno="" group-title="INDIAN ENTERTAINMENT",CINE EDGE
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="https://i.imgur.com/Sjin54w.png" tvg-chno="" group-title="INDIAN ENTERTAINMENT",CINEEDGE
 https://nomawnoijl.gpcdn.net/akash/cineedge/playlist.m3u8
 
 
