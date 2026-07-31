@@ -1,19 +1,19 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="https://i.imgur.com/xnvVaS4.png" tvg-chno="" group-title="WELCOME",Welcome to TVfy TV
+https://i.imgur.com/DpQMjxm.mp4
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="https://i.imgur.com/f7yD8S0.png" tvg-chno="" group-title="ENTERTAINMENT",BTV (A-S1)
 http://10.30.30.30:8088/BTV_HD_2/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="https://i.imgur.com/f7yD8S0.png" tvg-chno="" group-title="ENTERTAINMENT",BTV (A-S2)
 http://10.30.30.30:8088/BTV.HD_KSB/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="https://i.imgur.com/f7yD8S0.png" tvg-chno="" group-title="ENTERTAINMENT",BTV (MM-S)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="https://i.imgur.com/f7yD8S0.png" tvg-chno="" group-title="ENTERTAINMENT",BTV (M-S)
 http://cdn.moviemazic.xyz:8083/btv/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="https://i.imgur.com/f7yD8S0.png" tvg-chno="" group-title="ENTERTAINMENT",BTV (BDIX S1)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="https://i.imgur.com/f7yD8S0.png" tvg-chno="" group-title="ENTERTAINMENT",BTV (BDIX)
 http://103.165.93.31:8095/btv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="https://i.imgur.com/f7yD8S0.png" tvg-chno="" group-title="ENTERTAINMENT",BTV (BDIX S2)
-http://114.130.57.233:8080/BTV-HD/playlist.m3u8?token=SkQuhAXZxgBan1
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="https://i.imgur.com/f7yD8S0.png" tvg-chno="" group-title="ENTERTAINMENT",BTV (BDIX API)
-https://tv.bdixbd.net/api/proxy/stream.m3u8?url=http%3A%2F%2F103.151.60.204%3A881%2FBTV%2Ftracks-v1a1%2Fmono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="https://i.imgur.com/Co0GgET.png" tvg-chno="" group-title="ENTERTAINMENT",Sangsad TV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="https://i.imgur.com/TXiaOlV.png" tvg-chno="" group-title="ENTERTAINMENT",ATN Bangla (M-S)
+http://cdn.moviemazic.xyz:8083/ATNBangla/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="https://i.imgur.com/TXiaOlV.png" tvg-chno="" group-title="ENTERTAINMENT",ATN Bangla
 http://tv.cloudcdn.me:80/live.ts?channelId=81&uid=10016&deviceMac=00:1A:79:20:6F:F3
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="https://i.imgur.com/cK3ZeLs.png" tvg-chno="" group-title="ENTERTAINMENT",Channel i
@@ -22,6 +22,8 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1723/output/index.m3u8
 https://ekusheyserver.com/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="https://i.imgur.com/dvcxXud.png" tvg-chno="" group-title="ENTERTAINMENT",NTV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1716/output/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="https://i.imgur.com/KPKsvkk.png" tvg-chno="" group-title="ENTERTAINMENT",RTV (M-S)
+http://cdn.moviemazic.xyz:8083/Feedget/rtv_nk_34/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="https://i.imgur.com/KPKsvkk.png" tvg-chno="" group-title="ENTERTAINMENT",RTV
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/rtv-sg.stream/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="https://i.imgur.com/c6xN4Z2.png" tvg-chno="" group-title="ENTERTAINMENT",Boishakhi TV
@@ -75,40 +77,16 @@ http://tv.cloudcdn.me:80/live.ts?channelId=48010&uid=10016&deviceMac=00:1A:79:20
 http://10.30.30.30:8088/T_SPORTS_HD/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="https://i.imgur.com/6IRlRWe.png" tvg-chno="" group-title="SPORTS",T Sports (A-S2)
 http://10.30.30.30:8088/T-SPORTS-HD_KSB_2/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="https://i.imgur.com/6IRlRWe.png" tvg-chno="" group-title="SPORTS",T Sports (MM-S)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="https://i.imgur.com/6IRlRWe.png" tvg-chno="" group-title="SPORTS",T Sports (M-S)
 http://cdn.moviemazic.xyz:8083/TSportsHD/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="https://i.imgur.com/6IRlRWe.png" tvg-chno="" group-title="SPORTS",T Sports (BDIX S1)
-http://103.165.93.31:8095/tsports/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="https://i.imgur.com/6IRlRWe.png" tvg-chno="" group-title="SPORTS",T Sports (BDIX S2)
-http://114.130.57.233:8080/TsportHD/playlist.m3u8?token=SkQuhAXZxgBan1
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="https://i.imgur.com/6IRlRWe.png" tvg-chno="" group-title="SPORTS",T Sports (BDIX API)
-https://tv.bdixbd.net/api/proxy/stream.m3u8?url=http%3A%2F%2F103.151.61.12%2Ftv.bdixbd.net%2Ftracks-v1a1a2%2Fmono.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="https://i.imgur.com/hk20fVb.png" tvg-chno="" group-title="SPORTS",NOW TV 4K
-http://starhub.pro/live/farhat-3379/67897-913379/745270.ts
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="https://i.imgur.com/0TYonSa.png" tvg-chno="" group-title="SPORTS",TSN 1 (S1)
 http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/3146.ts
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="https://i.imgur.com/56aRgT7.png" tvg-chno="" group-title="SPORTS",TSN 1 (S2)
 http://wickediptv.xyz/Randall123/Randall321/53805.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="https://i.imgur.com/56aRgT7.png" tvg-chno="" group-title="SPORTS",TSN 4
-http://10k.lucastv.pro/2c99755ae255/gJnMAT2/465866.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="https://i.imgur.com/56aRgT7.png" tvg-chno="" group-title="SPORTS",FOX
-http://wickediptv.xyz/Randall123/Randall321/340019.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="https://i.imgur.com/56aRgT7.png" tvg-chno="" group-title="SPORTS",FUSSBALL.TV 1
-http://10k.lucastv.pro/2c99755ae255/gJnMAT2/465825.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="https://i.imgur.com/56aRgT7.png" tvg-chno="" group-title="SPORTS",FUSSBALL.TV 2
-http://10k.lucastv.pro/2c99755ae255/gJnMAT2/465822.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="https://i.imgur.com/56aRgT7.png" tvg-chno="" group-title="SPORTS",FUSSBALL.TV 3
-http://10k.lucastv.pro/2c99755ae255/gJnMAT2/465809.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="https://i.imgur.com/56aRgT7.png" tvg-chno="" group-title="SPORTS",D SPORTS
-http://10k.lucastv.pro/2c99755ae255/gJnMAT2/465848.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="https://i.imgur.com/0TYonSa.png" tvg-chno="" group-title="SPORTS",TSN 2
+http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/3145.ts
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="https://i.imgur.com/56aRgT7.png" tvg-chno="" group-title="SPORTS",SERVER 1
 http://10k.lucastv.pro/2c99755ae255/gJnMAT2/465864.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="https://i.imgur.com/56aRgT7.png" tvg-chno="" group-title="SPORTS",FS1
-http://10k.lucastv.pro/2c99755ae255/gJnMAT2/328813.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="https://i.imgur.com/56aRgT7.png" tvg-chno="" group-title="SPORTS",FOX LOCAL
-http://stream.cammonitorplus.net/1752/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="https://i.imgur.com/56aRgT7.png" tvg-chno="" group-title="SPORTS",BBC
-http://163.172.64.96:2017/live/GBa19qrcQYa3/u2c8FLfgkK/234.ts
 
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="https://i.imgur.com/9I9P3AZ.png" tvg-chno="" group-title="KIDS",Duronto TV
@@ -119,6 +97,10 @@ https://live20.bozztv.com/giatvplayout7/giatv-209611/index.ts.m3u8
 https://live20.bozztv.com/giatvplayout7/giatv-208314/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="https://i.imgur.com/FKuVIER.png" tvg-chno="" group-title="KIDS",Nikky
 https://nomawnoijl.gpcdn.net/akash/nikky/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="https://i.imgur.com/FKuVIER.png" tvg-chno="" group-title="KIDS",JOY
+https://nomawnoijl.gpcdn.net/akash/joy/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="https://i.imgur.com/xnvVaS4.png" tvg-chno="" group-title="KIDS",Cartoon Network
+http://cdn.moviemazic.xyz:8083/Feedget/CartoonNetwork_6/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="https://i.imgur.com/85Sfj8c.png" tvg-chno="" group-title="INFOTAINMENT",Nexus TV
 
@@ -142,16 +124,14 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/index.m3u8
 https://owrcovcrpy.gpcdn.net/bpk-tv/1724/output/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="https://i.imgur.com/zjYVfG0.png" tvg-chno="" group-title="NEWS",ATN News
 https://owrcovcrpy.gpcdn.net/bpk-tv/1706/output/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="https://i.imgur.com/SqhqpxF.png" tvg-chno="" group-title="NEWS",Somoy TV (A-S)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="https://i.imgur.com/SqhqpxF.png" tvg-chno="" group-title="NEWS",Somoy TV
+https://owrcovcrpy.gpcdn.net/bpk-tv/1713/output/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="https://i.imgur.com/SqhqpxF.png" tvg-chno="" group-title="NEWS",Somoy TV (A-S1)
+http://10.30.30.30:8088/SOMOY.TV.HD/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="https://i.imgur.com/SqhqpxF.png" tvg-chno="" group-title="NEWS",Somoy TV (A-S2)
 http://10.30.30.30:8088/SOMOY_TV_2/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="https://i.imgur.com/SqhqpxF.png" tvg-chno="" group-title="NEWS",Somoy TV (MM-S)
 http://cdn.moviemazic.xyz:8083/SomoyTv/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="https://i.imgur.com/SqhqpxF.png" tvg-chno="" group-title="NEWS",Somoy TV (BDIX S1)
-http://103.165.93.31:8095/somoyTv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="https://i.imgur.com/SqhqpxF.png" tvg-chno="" group-title="NEWS",Somoy TV (BDIX S2)
-http://114.130.57.233:8080/Somoy-TV-3Mb/playlist.m3u8?token=SkQuhAXZxgBan1
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="https://i.imgur.com/SqhqpxF.png" tvg-chno="" group-title="NEWS",Somoy TV (BDIX API)
-https://tv.bdixbd.net/api/proxy/stream.m3u8?url=http%3A%2F%2F103.151.60.204%3A881%2FSomoy-tv%2Ftracks-v1a1%2Fmono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="https://i.imgur.com/SqhqpxF.png" tvg-chno="" group-title="NEWS",Somoy TV (TBT)
 https://live.thebosstv.com:30443/dwlive/Somoy-TV/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="https://i.imgur.com/YSYHwwJ.png" tvg-chno="" group-title="NEWS",Independent TV
@@ -174,19 +154,23 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1721/output/index.m3u8
 https://d3bp6dwmpbdajl.cloudfront.net/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="https://i.imgur.com/p8mfmXz.png" tvg-chno="" group-title="NEWS",Russia Today (RT)
 https://rt-glb.rttv.com/dvr/rtnews/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="https://i.imgur.com/8YRbHTg.png" tvg-chno="" group-title="NEWS",BBC
+http://163.172.64.96:2017/live/GBa19qrcQYa3/u2c8FLfgkK/234.ts
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="https://i.imgur.com/8YRbHTg.png" tvg-chno="" group-title="NEWS",BBC NEWS
 http://wickediptv.xyz/Randall123/Randall321/53842.ts
 
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="https://i.imgur.com/xnvVaS4.png" tvg-chno="" group-title="INDIAN BANGLA",SRK TV
+https://srknowapp.ncare.live/srktvhlswodrm/srktv.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="https://i.imgur.com/JyIdI6O.png" tvg-chno="" group-title="INDIAN BANGLA",STAR JALSHA
 http://cdn.moviemazic.xyz:8083/StarJalshaHD/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="https://i.imgur.com/G5WC9hP.png" tvg-chno="" group-title="INDIAN BANGLA",JALSHA MOVIES
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="https://i.imgur.com/xnvVaS4.png" tvg-chno="" group-title="INDIAN BANGLA",JALSHA MOVIES
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="https://i.imgur.com/UJ0ydpr.png" tvg-chno="" group-title="INDIAN BANGLA",COLORS BANGLA
 http://cdn.moviemazic.xyz:8083/colors-bangla/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="https://i.imgur.com/G5WC9hP.png" tvg-chno="" group-title="INDIAN BANGLA",COLORS BANGLA CINEMA
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="https://i.imgur.com/xnvVaS4.png" tvg-chno="" group-title="INDIAN BANGLA",COLORS BANGLA CINEMA
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="https://i.imgur.com/s4IAdOl.png" tvg-chno="" group-title="INDIAN BANGLA",ZEE BANGLA
 http://cdn.moviemazic.xyz:8083/Feedget/ZeeBangla_8/index.m3u8
@@ -194,20 +178,22 @@ http://cdn.moviemazic.xyz:8083/Feedget/ZeeBangla_8/index.m3u8
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/ColorsHD/default/ColorsHD.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="https://i.imgur.com/Vd1mMVj.png" tvg-chno="" group-title="INDIAN BANGLA",Enter10 Bangla
 https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="https://i.imgur.com/Vd1mMVj.png" tvg-chno="" group-title="INDIAN BANGLA",Enter10 Bangla (M-S)
+http://cdn.moviemazic.xyz:8083/enterr10-bangla/index.m3u8
 
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="https://i.imgur.com/G5WC9hP.png" tvg-chno="" group-title="INDIAN ENTERTAINMENT",COLORS
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="https://i.imgur.com/xnvVaS4.png" tvg-chno="" group-title="INDIAN ENTERTAINMENT",COLORS
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="https://i.imgur.com/G5WC9hP.png" tvg-chno="" group-title="INDIAN ENTERTAINMENT",COLORS CINEPLEX
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="https://i.imgur.com/xnvVaS4.png" tvg-chno="" group-title="INDIAN ENTERTAINMENT",COLORS CINEPLEX
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="https://i.imgur.com/G5WC9hP.png" tvg-chno="" group-title="INDIAN ENTERTAINMENT",ZEE TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="https://i.imgur.com/xnvVaS4.png" tvg-chno="" group-title="INDIAN ENTERTAINMENT",ZEE TV
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="https://i.imgur.com/z8JRg8Z.png" tvg-chno="" group-title="INDIAN ENTERTAINMENT",ZEE CINEMA
 http://cdn.moviemazic.xyz:8083/Feedget/ZeeCinemaHD_38/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="https://i.imgur.com/MwaXPBN.png" tvg-chno="" group-title="INDIAN ENTERTAINMENT",STAR GOLD
 http://cdn.moviemazic.xyz:8083/Star-Gold/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="https://i.imgur.com/G5WC9hP.png" tvg-chno="" group-title="INDIAN ENTERTAINMENT",STAR PLUS
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="https://i.imgur.com/xnvVaS4.png" tvg-chno="" group-title="INDIAN ENTERTAINMENT",STAR PLUS
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="https://i.imgur.com/So2i9mO.png" tvg-chno="" group-title="INDIAN ENTERTAINMENT",STAR MOVIES
 http://cdn.moviemazic.xyz:8083/Feedget/Star-Movies/index.m3u8
@@ -217,7 +203,7 @@ http://cdn.moviemazic.xyz:8083/Feedget/SonyEntertainmentTelevisionHD_9/index.m3u
 http://cdn.moviemazic.xyz:8083/Feedget/SonyMAX_37/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="https://i.imgur.com/K4bLVua.png" tvg-chno="" group-title="INDIAN ENTERTAINMENT",HBO
 http://103.213.31.111/HBOHD/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="https://i.imgur.com/Sjin54w.png" tvg-chno="" group-title="INDIAN ENTERTAINMENT",CINE EDGE
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="https://i.imgur.com/Sjin54w.png" tvg-chno="" group-title="INDIAN ENTERTAINMENT",CINEEDGE
 https://nomawnoijl.gpcdn.net/akash/cineedge/playlist.m3u8
 
 
@@ -225,7 +211,7 @@ https://nomawnoijl.gpcdn.net/akash/cineedge/playlist.m3u8
 https://wiselp.wiseplayout.com/9XM/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="https://i.imgur.com/IvbICOw.png" tvg-chno="" group-title="INDIAN MUSIC",YRF MUSIC
 https://amg01412-xiaomiasia-yrfmusic-xiaomi-1rmk2.amagi.tv/playlist/amg01412-xiaomiasia-yrfmusic-xiaomi/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="https://i.imgur.com/G5WC9hP.png" tvg-chno="" group-title="INDIAN MUSIC",HINDI HITS
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="https://i.imgur.com/xnvVaS4.png" tvg-chno="" group-title="INDIAN MUSIC",HINDI HITS
 http://146.59.253.52:8080/hindihitshd/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="https://i.imgur.com/0QbJw1E.png" tvg-chno="" group-title="INDIAN MUSIC",PARTY UNIVERSE
 https://nomawnoijl.gpcdn.net/akash/partyuniverse/playlist.m3u8
@@ -250,29 +236,28 @@ https://amg00793-amg00793c6-xumo-us-2669.playouts.now.amagi.tv/BBCStudios-BBCEar
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="https://i.imgur.com/G5WC9hP.png" tvg-chno="" group-title="CHANNEL TEST",Test 1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="https://i.imgur.com/xnvVaS4.png" tvg-chno="" group-title="CHANNEL TEST",Test 1
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="https://i.imgur.com/G5WC9hP.png" tvg-chno="" group-title="CHANNEL TEST",Test 2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="https://i.imgur.com/xnvVaS4.png" tvg-chno="" group-title="CHANNEL TEST",Test 2
 http://tv.cloudcdn.me:80/live.ts?channelId=162&uid=10016&deviceMac=00:1A:79:20:6F:F3
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="https://i.imgur.com/G5WC9hP.png" tvg-chno="" group-title="CHANNEL TEST",Test 3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="https://i.imgur.com/xnvVaS4.png" tvg-chno="" group-title="CHANNEL TEST",Test 3
 http://tv.cloudcdn.me:80/live.ts?channelId=198&uid=10016&deviceMac=00:1A:79:20:6F:F3
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="https://i.imgur.com/G5WC9hP.png" tvg-chno="" group-title="CHANNEL TEST",Test 4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="https://i.imgur.com/xnvVaS4.png" tvg-chno="" group-title="CHANNEL TEST",Test 4
 http://tv.cloudcdn.me:80/live.ts?channelId=298&uid=10016&deviceMac=00:1A:79:20:6F:F3
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="https://i.imgur.com/G5WC9hP.png" tvg-chno="" group-title="CHANNEL TEST",Test 5
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="https://i.imgur.com/xnvVaS4.png" tvg-chno="" group-title="CHANNEL TEST",Test 5
 http://tv.cloudcdn.me:80/live.ts?channelId=745&uid=10016&deviceMac=00:1A:79:20:6F:F3
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="https://i.imgur.com/G5WC9hP.png" tvg-chno="" group-title="CHANNEL TEST",Test 6
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="https://i.imgur.com/xnvVaS4.png" tvg-chno="" group-title="CHANNEL TEST",Test 6
 http://tv.cloudcdn.me:80/live.ts?channelId=74553&uid=10016&deviceMac=00:1A:79:20:6F:F3
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="https://i.imgur.com/G5WC9hP.png" tvg-chno="" group-title="CHANNEL TEST",Test 7
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="https://i.imgur.com/xnvVaS4.png" tvg-chno="" group-title="CHANNEL TEST",Test 7
 http://tv.cloudcdn.me:80/live.ts?channelId=91169&uid=10016&deviceMac=00:1A:79:20:6F:F3
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="https://i.imgur.com/G5WC9hP.png" tvg-chno="" group-title="CHANNEL TEST",Test 8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="https://i.imgur.com/xnvVaS4.png" tvg-chno="" group-title="CHANNEL TEST",Test 8
 http://tv.cloudcdn.me:80/live.ts?channelId=102478&uid=10016&deviceMac=00:1A:79:20:6F:F3
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="https://i.imgur.com/G5WC9hP.png" tvg-chno="" group-title="CHANNEL TEST",Test 9
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="https://i.imgur.com/xnvVaS4.png" tvg-chno="" group-title="CHANNEL TEST",Test 9
 http://tv.cloudcdn.me:80/live.ts?channelId=102479&uid=10016&deviceMac=00:1A:79:20:6F:F3
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="https://i.imgur.com/G5WC9hP.png" tvg-chno="" group-title="CHANNEL TEST",Test 10
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="https://i.imgur.com/xnvVaS4.png" tvg-chno="" group-title="CHANNEL TEST",Test 10
 http://tv.cloudcdn.me:80/live.ts?channelId=105349&uid=10016&deviceMac=00:1A:79:20:6F:F3
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="https://i.imgur.com/G5WC9hP.png" tvg-chno="" group-title="CHANNEL TEST",Test 11
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="https://i.imgur.com/xnvVaS4.png" tvg-chno="" group-title="CHANNEL TEST",Test 11
 http://tv.cloudcdn.me:80/live.ts?channelId=128485&uid=10016&deviceMac=00:1A:79:20:6F:F3
-
 
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="https://i.imgur.com/vvimDiC.png" tvg-chno="" group-title="BANGLA DRAMA",G Series
@@ -280,309 +265,191 @@ https://vods2.aynaott.com/gseriesDrama/index.m3u8
 
 
 
-#───────────── SAMPLE ─────────────
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="https://i.imgur.com/G5WC9hP.png" tvg-chno="" group-title="CATEGORY",TV Name
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="https://i.imgur.com/xnvVaS4.png" tvg-chno="" group-title="CATEGORY",TV Name
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="https://i.imgur.com/9L0oLMH.png" tvg-chno="" group-title="CATEGORY",Movie Name
 
 
 
-#───────────── Bangla Movies ─────────────
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="https://i.imgur.com/9L0oLMH.png" tvg-chno="" group-title="BANGLA MOVIES",Movie Name
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="" tvg-chno="" group-title="BANGLA MOVIES",
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/91YwoAfOtbhMtXFzPHmWOEz15Q8.jpg" tvg-chno="" group-title="BANGLA MOVIES",Rockstar (2026) [Bengali] WEB-DL 1080p
+https://pub-5fec8fc694d94931914e330ee37acaab.r2.dev/CINEFREAK.TOP%20-%20Rockstar%20%282026%29%20WEB-DL%20%5BBengali%5D%20Chorki%201080p%20ESub.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="https://cinefreak.net/wp-content/uploads/2026/05/Prince.webp" tvg-chno="" group-title="BANGLA MOVIES",Prince: Once Upon a Time in Dhaka (2026) [Bengali] WEB-DL 1080p
+https://pub-8c79de94b5804d1fae2b2601da8a09cc.r2.dev/CINEFREAK.TOP%20-%20Prince%20Once%20Upon%20a%20Time%20in%20Dhaka%20%282026%29%20WEB-DL%20%5BBengali%5D%201080p.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="" tvg-chno="" group-title="BANGLA MOVIES",
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iplMLlXU1BgmTz4xviILTOlECYL.jpg" tvg-chno="" group-title="BANGLA MOVIES",Taandob (2025) [Bengali] WEB-DL 1080p
+https://pub-9863a0f358ed4c8bba70c08c305e778a.r2.dev/CINEFREAK.TOP%20-%20Taandob%20%282025%29%20WEB-DL%20%5BBengali%5D%201080p.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="" tvg-chno="" group-title="BANGLA MOVIES",
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jpvptCCkoF85hZL3xd6olSAg8qc.jpg" tvg-chno="" group-title="BANGLA MOVIES",Borbaad (2025) [Bengali] WEB-DL 1080p
+https://pub-e23519f317f6495b81b5ea2cd9f560e3.r2.dev/CINEFREAK.TOP%20-%20Borbaad%20%282025%29%20WEB-DL%20%5BBengali%5D%20Chorki%201080p%20ESub.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="https://image.tmdb.org/t/p/w300/5TS3piPf3ZqISbRSrJ8lYeGQvfQ.jpg" tvg-chno="" group-title="BANGLA MOVIES",Toofan (2024) [Bengali] WEB-DL 1080p
+https://pub-5fec8fc694d94931914e330ee37acaab.r2.dev/CINEFREAK.NET%20-%20Toofan%20%282024%29%20WEB-DL%20Hoichoi%20%5BBengali%5D%201080p.mkv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="https://image.tmdb.org/t/p/w300/bbVlVUS5KAO0XLKhSr5oNbbRXbG.jpg" tvg-chno="" group-title="BANGLA MOVIES",Priyotoma (2023) [Bengali] WEB-DL 720p
+https://pub-af45f79dddd146dcaf6b25c8102f263e.r2.dev/CineFreak.ME%20-%20Priyotoma%20%282023%29%20Bengali%20Bioscope%20WEB-DL%20720p.mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="" tvg-chno="" group-title="BANGLA MOVIES",
 
 
-#───────────── Bangla Dubbed ─────────────
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="https://i.imgur.com/9L0oLMH.png" tvg-chno="" group-title="BANGLA DUBBED",Movie Name
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="https://i.imgur.com/9L0oLMH.png" tvg-chno="" group-title="BANGLA DUBBED",
 
 
-#───────────── Hindi Movies ─────────────
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="https://i.imgur.com/9L0oLMH.png" tvg-chno="" group-title="HINDI MOVIES",Movie Name
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="https://i.imgur.com/9L0oLMH.png" tvg-chno="" group-title="HINDI MOVIES",
 
 
-#───────────── Hindi Dubbed Movies ─────────────
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="https://i.imgur.com/9L0oLMH.png" tvg-chno="" group-title="HINDI DUBBED MOVIES",Movie Name
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="https://i.imgur.com/9L0oLMH.png" tvg-chno="" group-title="HINDI DUBBED MOVIES",
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="https://cinefreak.net/wp-content/uploads/2024/12/Bougainvillea-2024.jpg" tvg-chno="" group-title="HINDI DUBBED MOVIES",Bougainvillea (2024) [Hindi-Malayalam] WEB-DL 1080p
+https://pub-5fec8fc694d94931914e330ee37acaab.r2.dev/CINEFREAK.TOP%20-%20Bougainvillea%20%282024%29%20WEB-DL%20%5BHindi-Malayalam%5D%20SLIV%201080p%20ESub.mkv
 
 
-#───────────── English Movies ─────────────
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="https://i.imgur.com/9L0oLMH.png" tvg-chno="" group-title="ENGLISH MOVIES",Movie Name
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="https://i.imgur.com/9L0oLMH.png" tvg-chno="" group-title="ENGLISH MOVIES",
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="https://image.tmdb.org/t/p/w300/9xjZS2rlVxm8SFx8kPC3aIGCOYQ.jpg" tvg-chno="" group-title="ENGLISH MOVIES",Titanic (19997) BluRay [Hindi-English] 1080p
-https://pub-e0d64236dd5a432e88e02ca41b2a9872.r2.dev/CINEFREAK.NET%20-%20Titanic%20%2819997%29%20BluRay%20%7BHin-Eng%7D%201080p.mkv
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="https://image.tmdb.org/t/p/original/3bEqHqeaQlFykaLQ7N4gDkIvL5w.jpg" tvg-chno="" group-title="ENGLISH MOVIES",Desire (2026) WEB-DL [Hindi-English] 1080p
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="http://172.16.50.14/DHAKA-FLIX-14/English%20Movies%20%281080p%29/%281997%29%201080p/Titanic%20%281997%29%201080p/a0_AL_.jpg" tvg-chno="" group-title="ENGLISH MOVIES",Titanic (1997) 1080p BluRay
+http://172.16.50.14/DHAKA-FLIX-14/English%20Movies%20%281080p%29/%281997%29%201080p/Titanic%20%281997%29%201080p/Titanic%20%281997%29%201080p%20BluRay%20x265%20HEVC%2010bit%20AAC%205.1%20MSubs-Silence.mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="https://image.tmdb.org/t/p/w300/9xjZS2rlVxm8SFx8kPC3aIGCOYQ.jpg" tvg-chno="" group-title="ENGLISH MOVIES",Titanic (1997) [Hindi-English] 1080p BluRay
+https://pub-5fec8fc694d94931914e330ee37acaab.r2.dev/CINEFREAK.NET%20-%20Titanic%20%2819997%29%20BluRay%20%7BHin-Eng%7D%201080p.mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="https://image.tmdb.org/t/p/original/3bEqHqeaQlFykaLQ7N4gDkIvL5w.jpg" tvg-chno="" group-title="ENGLISH MOVIES",Desire (2026) [Hindi-English] WEB-DL 1080p
 https://pub-87e02c2f0e8941be964da8513404e392.r2.dev/CINEFREAK.TOP%20-%20Desire%20%282026%29%20WEB-DL%20%5BHindi-English%5D%201080p%20ESub.mkv
 
 
-#───────────── Others ─────────────
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="https://i.imgur.com/9L0oLMH.png" tvg-chno="" group-title="OTHERS",Movie Name
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="https://i.imgur.com/9L0oLMH.png" tvg-chno="" group-title="OTHERS",
 
 
-#───────────── TV Series ─────────────
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="https://i.imgur.com/9L0oLMH.png" tvg-chno="" group-title="TV SERIES",Series Name
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="https://i.imgur.com/9L0oLMH.png" tvg-chno="" group-title="TV SERIES",
 
 
-#───────────── IMDb Top 250 Movies ─────────────
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="https://i.imgur.com/9L0oLMH.png" tvg-chno="" group-title="IMDb Top 250 Movies",Movie 1
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="https://i.imgur.com/9L0oLMH.png" tvg-chno="" group-title="IMDb Top 250 Movies",Movie 2
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="https://i.imgur.com/9L0oLMH.png" tvg-chno="" group-title="IMDb Top 250 Movies",Movie 3
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="https://i.imgur.com/9L0oLMH.png" tvg-chno="" group-title="IMDb Top 250 Movies",Movie 4
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="https://i.imgur.com/9L0oLMH.png" tvg-chno="" group-title="IMDb Top 250 Movies",Movie 5
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="https://i.imgur.com/9L0oLMH.png" tvg-chno="" group-title="IMDb Top 250 Movies",Movie 6
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="https://i.imgur.com/9L0oLMH.png" tvg-chno="" group-title="IMDb Top 250 Movies",Movie 7
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="https://i.imgur.com/9L0oLMH.png" tvg-chno="" group-title="IMDb Top 250 Movies",Movie 8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="https://i.imgur.com/9L0oLMH.png" tvg-chno="" group-title="IMDb Top 250 Movies",Movie 9
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="https://i.imgur.com/9L0oLMH.png" tvg-chno="" group-title="IMDb Top 250 Movies",Movie 10
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="https://i.imgur.com/9L0oLMH.png" tvg-chno="" group-title="IMDb Top 250 Movies",Movie 11
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="https://i.imgur.com/9L0oLMH.png" tvg-chno="" group-title="IMDb Top 250 Movies",Movie 12
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="https://i.imgur.com/9L0oLMH.png" tvg-chno="" group-title="IMDb Top 250 Movies",Movie 13
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="https://i.imgur.com/9L0oLMH.png" tvg-chno="" group-title="IMDb Top 250 Movies",Movie 14
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="https://i.imgur.com/9L0oLMH.png" tvg-chno="" group-title="IMDb Top 250 Movies",Movie 15
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="https://i.imgur.com/9L0oLMH.png" tvg-chno="" group-title="IMDb Top 250 Movies",Movie 16
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="https://i.imgur.com/9L0oLMH.png" tvg-chno="" group-title="IMDb Top 250 Movies",Movie 17
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="https://i.imgur.com/9L0oLMH.png" tvg-chno="" group-title="IMDb Top 250 Movies",Movie 18
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="https://i.imgur.com/9L0oLMH.png" tvg-chno="" group-title="IMDb Top 250 Movies",Movie 19
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="https://i.imgur.com/9L0oLMH.png" tvg-chno="" group-title="IMDb Top 250 Movies",Movie 20
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="https://i.imgur.com/9L0oLMH.png" tvg-chno="" group-title="IMDb Top 250 Movies",Movie 21
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="https://i.imgur.com/9L0oLMH.png" tvg-chno="" group-title="IMDb Top 250 Movies",Movie 22
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="https://i.imgur.com/9L0oLMH.png" tvg-chno="" group-title="IMDb Top 250 Movies",Movie 23
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="https://i.imgur.com/9L0oLMH.png" tvg-chno="" group-title="IMDb Top 250 Movies",Movie 24
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="https://i.imgur.com/9L0oLMH.png" tvg-chno="" group-title="IMDb Top 250 Movies",Movie 25
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="https://i.imgur.com/9L0oLMH.png" tvg-chno="" group-title="IMDb Top 250 Movies",Movie 26
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="https://i.imgur.com/9L0oLMH.png" tvg-chno="" group-title="IMDb Top 250 Movies",Movie 27
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="https://i.imgur.com/9L0oLMH.png" tvg-chno="" group-title="IMDb Top 250 Movies",Movie 28
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="https://i.imgur.com/9L0oLMH.png" tvg-chno="" group-title="IMDb Top 250 Movies",Movie 29
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="https://i.imgur.com/9L0oLMH.png" tvg-chno="" group-title="IMDb Top 250 Movies",Movie 30
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="https://i.imgur.com/9L0oLMH.png" tvg-chno="" group-title="IMDb Top 250 Movies",Movie 31
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="https://i.imgur.com/9L0oLMH.png" tvg-chno="" group-title="IMDb Top 250 Movies",Movie 32
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="https://i.imgur.com/9L0oLMH.png" tvg-chno="" group-title="IMDb Top 250 Movies",Movie 33
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="https://i.imgur.com/9L0oLMH.png" tvg-chno="" group-title="IMDb Top 250 Movies",Movie 34
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="https://i.imgur.com/9L0oLMH.png" tvg-chno="" group-title="IMDb Top 250 Movies",Movie 35
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="https://i.imgur.com/9L0oLMH.png" tvg-chno="" group-title="IMDb Top 250 Movies",Movie 36
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="https://i.imgur.com/9L0oLMH.png" tvg-chno="" group-title="IMDb Top 250 Movies",Movie 37
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="https://i.imgur.com/9L0oLMH.png" tvg-chno="" group-title="IMDb Top 250 Movies",Movie 38
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="https://i.imgur.com/9L0oLMH.png" tvg-chno="" group-title="IMDb Top 250 Movies",Movie 39
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="https://i.imgur.com/9L0oLMH.png" tvg-chno="" group-title="IMDb Top 250 Movies",Movie 40
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="https://i.imgur.com/9L0oLMH.png" tvg-chno="" group-title="IMDb Top 250 Movies",Movie 41
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="https://i.imgur.com/9L0oLMH.png" tvg-chno="" group-title="IMDb Top 250 Movies",Movie 42
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="https://i.imgur.com/9L0oLMH.png" tvg-chno="" group-title="IMDb Top 250 Movies",Movie 43
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="https://i.imgur.com/9L0oLMH.png" tvg-chno="" group-title="IMDb Top 250 Movies",Movie 44
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="https://i.imgur.com/9L0oLMH.png" tvg-chno="" group-title="IMDb Top 250 Movies",Movie 45
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="https://i.imgur.com/9L0oLMH.png" tvg-chno="" group-title="IMDb Top 250 Movies",Movie 46
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="https://i.imgur.com/9L0oLMH.png" tvg-chno="" group-title="IMDb Top 250 Movies",Movie 47
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="https://i.imgur.com/9L0oLMH.png" tvg-chno="" group-title="IMDb Top 250 Movies",Movie 48
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="https://i.imgur.com/9L0oLMH.png" tvg-chno="" group-title="IMDb Top 250 Movies",Movie 49
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="https://i.imgur.com/9L0oLMH.png" tvg-chno="" group-title="IMDb Top 250 Movies",Movie 50
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="https://i.imgur.com/9L0oLMH.png" tvg-chno="" group-title="IMDb Top 250 Movies",Movie 51
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="https://i.imgur.com/9L0oLMH.png" tvg-chno="" group-title="IMDb Top 250 Movies",Movie 52
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="https://i.imgur.com/9L0oLMH.png" tvg-chno="" group-title="IMDb Top 250 Movies",Movie 53
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="https://i.imgur.com/9L0oLMH.png" tvg-chno="" group-title="IMDb Top 250 Movies",Movie 54
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="https://i.imgur.com/9L0oLMH.png" tvg-chno="" group-title="IMDb Top 250 Movies",Movie 55
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="https://i.imgur.com/9L0oLMH.png" tvg-chno="" group-title="IMDb Top 250 Movies",Movie 56
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="https://i.imgur.com/9L0oLMH.png" tvg-chno="" group-title="IMDb Top 250 Movies",Movie 57
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="https://i.imgur.com/9L0oLMH.png" tvg-chno="" group-title="IMDb Top 250 Movies",Movie 58
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="https://i.imgur.com/9L0oLMH.png" tvg-chno="" group-title="IMDb Top 250 Movies",Movie 59
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="https://i.imgur.com/9L0oLMH.png" tvg-chno="" group-title="IMDb Top 250 Movies",Movie 60
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="https://i.imgur.com/9L0oLMH.png" tvg-chno="" group-title="IMDb Top 250 Movies",Movie 61
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="https://i.imgur.com/9L0oLMH.png" tvg-chno="" group-title="IMDb Top 250 Movies",Movie 62
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="https://i.imgur.com/9L0oLMH.png" tvg-chno="" group-title="IMDb Top 250 Movies",Movie 63
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="https://i.imgur.com/9L0oLMH.png" tvg-chno="" group-title="IMDb Top 250 Movies",Movie 64
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="https://i.imgur.com/9L0oLMH.png" tvg-chno="" group-title="IMDb Top 250 Movies",Movie 65
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="https://i.imgur.com/9L0oLMH.png" tvg-chno="" group-title="IMDb Top 250 Movies",Movie 66
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="https://i.imgur.com/9L0oLMH.png" tvg-chno="" group-title="IMDb Top 250 Movies",Movie 67
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="https://i.imgur.com/9L0oLMH.png" tvg-chno="" group-title="IMDb Top 250 Movies",Movie 68
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="https://i.imgur.com/9L0oLMH.png" tvg-chno="" group-title="IMDb Top 250 Movies",Movie 69
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="https://i.imgur.com/9L0oLMH.png" tvg-chno="" group-title="IMDb Top 250 Movies",Movie 70
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="https://i.imgur.com/9L0oLMH.png" tvg-chno="" group-title="IMDb Top 250 Movies",Movie 71
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="https://i.imgur.com/9L0oLMH.png" tvg-chno="" group-title="IMDb Top 250 Movies",Movie 72
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="https://i.imgur.com/9L0oLMH.png" tvg-chno="" group-title="IMDb Top 250 Movies",Movie 73
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="https://i.imgur.com/9L0oLMH.png" tvg-chno="" group-title="IMDb Top 250 Movies",Movie 74
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="https://i.imgur.com/9L0oLMH.png" tvg-chno="" group-title="IMDb Top 250 Movies",Movie 75
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="https://i.imgur.com/9L0oLMH.png" tvg-chno="" group-title="IMDb Top 250 Movies",Movie 76
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="https://i.imgur.com/9L0oLMH.png" tvg-chno="" group-title="IMDb Top 250 Movies",Movie 77
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="https://i.imgur.com/9L0oLMH.png" tvg-chno="" group-title="IMDb Top 250 Movies",Movie 78
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="https://i.imgur.com/9L0oLMH.png" tvg-chno="" group-title="IMDb Top 250 Movies",Movie 79
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="https://i.imgur.com/9L0oLMH.png" tvg-chno="" group-title="IMDb Top 250 Movies",Movie 80
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="https://i.imgur.com/9L0oLMH.png" tvg-chno="" group-title="IMDb Top 250 Movies",Movie 81
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="https://i.imgur.com/9L0oLMH.png" tvg-chno="" group-title="IMDb Top 250 Movies",Movie 82
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="https://i.imgur.com/9L0oLMH.png" tvg-chno="" group-title="IMDb Top 250 Movies",Movie 83
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="https://i.imgur.com/9L0oLMH.png" tvg-chno="" group-title="IMDb Top 250 Movies",Movie 84
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="https://i.imgur.com/9L0oLMH.png" tvg-chno="" group-title="IMDb Top 250 Movies",Movie 85
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="https://i.imgur.com/9L0oLMH.png" tvg-chno="" group-title="IMDb Top 250 Movies",Movie 86
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="https://i.imgur.com/9L0oLMH.png" tvg-chno="" group-title="IMDb Top 250 Movies",Movie 87
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="https://i.imgur.com/9L0oLMH.png" tvg-chno="" group-title="IMDb Top 250 Movies",Movie 88
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="https://i.imgur.com/9L0oLMH.png" tvg-chno="" group-title="IMDb Top 250 Movies",Movie 89
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="https://i.imgur.com/9L0oLMH.png" tvg-chno="" group-title="IMDb Top 250 Movies",Movie 90
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="https://i.imgur.com/9L0oLMH.png" tvg-chno="" group-title="IMDb Top 250 Movies",Movie 91
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="https://i.imgur.com/9L0oLMH.png" tvg-chno="" group-title="IMDb Top 250 Movies",Movie 92
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="https://i.imgur.com/9L0oLMH.png" tvg-chno="" group-title="IMDb Top 250 Movies",Movie 93
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="https://i.imgur.com/9L0oLMH.png" tvg-chno="" group-title="IMDb Top 250 Movies",Movie 94
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="https://i.imgur.com/9L0oLMH.png" tvg-chno="" group-title="IMDb Top 250 Movies",Movie 95
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="https://i.imgur.com/9L0oLMH.png" tvg-chno="" group-title="IMDb Top 250 Movies",Movie 96
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="https://i.imgur.com/9L0oLMH.png" tvg-chno="" group-title="IMDb Top 250 Movies",Movie 97
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="https://i.imgur.com/9L0oLMH.png" tvg-chno="" group-title="IMDb Top 250 Movies",Movie 98
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="https://i.imgur.com/9L0oLMH.png" tvg-chno="" group-title="IMDb Top 250 Movies",Movie 99
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="https://i.imgur.com/9L0oLMH.png" tvg-chno="" group-title="IMDb Top 250 Movies",Movie 100
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="https://i.imgur.com/9L0oLMH.png" tvg-chno="" group-title="IMDb Top 250 Movies",Movie 101
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="https://i.imgur.com/9L0oLMH.png" tvg-chno="" group-title="IMDb Top 250 Movies",Movie 102
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="https://i.imgur.com/9L0oLMH.png" tvg-chno="" group-title="IMDb Top 250 Movies",Movie 103
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="https://i.imgur.com/9L0oLMH.png" tvg-chno="" group-title="IMDb Top 250 Movies",Movie 104
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="https://i.imgur.com/9L0oLMH.png" tvg-chno="" group-title="IMDb Top 250 Movies",Movie 105
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="https://i.imgur.com/9L0oLMH.png" tvg-chno="" group-title="IMDb Top 250 Movies",Movie 106
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="https://i.imgur.com/9L0oLMH.png" tvg-chno="" group-title="IMDb Top 250 Movies",Movie 107
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="https://i.imgur.com/9L0oLMH.png" tvg-chno="" group-title="IMDb Top 250 Movies",Movie 108
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="https://i.imgur.com/9L0oLMH.png" tvg-chno="" group-title="IMDb Top 250 Movies",Movie 109
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="https://i.imgur.com/9L0oLMH.png" tvg-chno="" group-title="IMDb Top 250 Movies",Movie 110
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="https://i.imgur.com/9L0oLMH.png" tvg-chno="" group-title="IMDb Top 250 Movies",Movie 111
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="https://i.imgur.com/9L0oLMH.png" tvg-chno="" group-title="IMDb Top 250 Movies",Movie 112
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="https://i.imgur.com/9L0oLMH.png" tvg-chno="" group-title="IMDb Top 250 Movies",Movie 113
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="https://i.imgur.com/9L0oLMH.png" tvg-chno="" group-title="IMDb Top 250 Movies",Movie 114
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="https://i.imgur.com/9L0oLMH.png" tvg-chno="" group-title="IMDb Top 250 Movies",Movie 115
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="https://i.imgur.com/9L0oLMH.png" tvg-chno="" group-title="IMDb Top 250 Movies",Movie 116
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="https://i.imgur.com/9L0oLMH.png" tvg-chno="" group-title="IMDb Top 250 Movies",Movie 117
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="https://i.imgur.com/9L0oLMH.png" tvg-chno="" group-title="IMDb Top 250 Movies",Movie 118
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="https://i.imgur.com/9L0oLMH.png" tvg-chno="" group-title="IMDb Top 250 Movies",Movie 119
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="https://i.imgur.com/9L0oLMH.png" tvg-chno="" group-title="IMDb Top 250 Movies",Movie 120
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="https://i.imgur.com/9L0oLMH.png" tvg-chno="" group-title="IMDb Top 250 Movies",Movie 121
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="https://i.imgur.com/9L0oLMH.png" tvg-chno="" group-title="IMDb Top 250 Movies",Movie 122
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="https://i.imgur.com/9L0oLMH.png" tvg-chno="" group-title="IMDb Top 250 Movies",Movie 123
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="https://i.imgur.com/9L0oLMH.png" tvg-chno="" group-title="IMDb Top 250 Movies",Movie 124
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="https://i.imgur.com/9L0oLMH.png" tvg-chno="" group-title="IMDb Top 250 Movies",Movie 125
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="https://i.imgur.com/9L0oLMH.png" tvg-chno="" group-title="IMDb Top 250 Movies",Movie 126
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="https://i.imgur.com/9L0oLMH.png" tvg-chno="" group-title="IMDb Top 250 Movies",Movie 127
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="https://i.imgur.com/9L0oLMH.png" tvg-chno="" group-title="IMDb Top 250 Movies",Movie 128
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="https://i.imgur.com/9L0oLMH.png" tvg-chno="" group-title="IMDb Top 250 Movies",Movie 129
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="https://i.imgur.com/9L0oLMH.png" tvg-chno="" group-title="IMDb Top 250 Movies",Movie 130
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="https://i.imgur.com/9L0oLMH.png" tvg-chno="" group-title="IMDb Top 250 Movies",Movie 131
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="https://i.imgur.com/9L0oLMH.png" tvg-chno="" group-title="IMDb Top 250 Movies",Movie 132
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="https://i.imgur.com/9L0oLMH.png" tvg-chno="" group-title="IMDb Top 250 Movies",Movie 133
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="https://i.imgur.com/9L0oLMH.png" tvg-chno="" group-title="IMDb Top 250 Movies",Movie 134
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="https://i.imgur.com/9L0oLMH.png" tvg-chno="" group-title="IMDb Top 250 Movies",Movie 135
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="https://i.imgur.com/9L0oLMH.png" tvg-chno="" group-title="IMDb Top 250 Movies",Movie 136
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="https://i.imgur.com/9L0oLMH.png" tvg-chno="" group-title="IMDb Top 250 Movies",Movie 137
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="https://i.imgur.com/9L0oLMH.png" tvg-chno="" group-title="IMDb Top 250 Movies",Movie 138
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="https://i.imgur.com/9L0oLMH.png" tvg-chno="" group-title="IMDb Top 250 Movies",Movie 139
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="https://i.imgur.com/9L0oLMH.png" tvg-chno="" group-title="IMDb Top 250 Movies",Movie 140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="https://i.imgur.com/9L0oLMH.png" tvg-chno="" group-title="IMDb Top 250 Movies",Movie 141
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="https://i.imgur.com/9L0oLMH.png" tvg-chno="" group-title="IMDb Top 250 Movies",Movie 142
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="https://i.imgur.com/9L0oLMH.png" tvg-chno="" group-title="IMDb Top 250 Movies",Movie 143
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="https://i.imgur.com/9L0oLMH.png" tvg-chno="" group-title="IMDb Top 250 Movies",Movie 144
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="https://i.imgur.com/9L0oLMH.png" tvg-chno="" group-title="IMDb Top 250 Movies",Movie 145
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="https://i.imgur.com/9L0oLMH.png" tvg-chno="" group-title="IMDb Top 250 Movies",Movie 146
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="https://i.imgur.com/9L0oLMH.png" tvg-chno="" group-title="IMDb Top 250 Movies",Movie 147
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="https://i.imgur.com/9L0oLMH.png" tvg-chno="" group-title="IMDb Top 250 Movies",Movie 148
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="https://i.imgur.com/9L0oLMH.png" tvg-chno="" group-title="IMDb Top 250 Movies",Movie 149
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="https://i.imgur.com/9L0oLMH.png" tvg-chno="" group-title="IMDb Top 250 Movies",Movie 150
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="https://i.imgur.com/9L0oLMH.png" tvg-chno="" group-title="IMDb Top 250 Movies",Movie 151
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="https://i.imgur.com/9L0oLMH.png" tvg-chno="" group-title="IMDb Top 250 Movies",Movie 152
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="https://i.imgur.com/9L0oLMH.png" tvg-chno="" group-title="IMDb Top 250 Movies",Movie 153
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="https://i.imgur.com/9L0oLMH.png" tvg-chno="" group-title="IMDb Top 250 Movies",Movie 154
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="https://i.imgur.com/9L0oLMH.png" tvg-chno="" group-title="IMDb Top 250 Movies",Movie 155
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="https://i.imgur.com/9L0oLMH.png" tvg-chno="" group-title="IMDb Top 250 Movies",Movie 156
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="https://i.imgur.com/9L0oLMH.png" tvg-chno="" group-title="IMDb Top 250 Movies",Movie 157
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="https://i.imgur.com/9L0oLMH.png" tvg-chno="" group-title="IMDb Top 250 Movies",Movie 158
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="https://i.imgur.com/9L0oLMH.png" tvg-chno="" group-title="IMDb Top 250 Movies",Movie 159
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="https://i.imgur.com/9L0oLMH.png" tvg-chno="" group-title="IMDb Top 250 Movies",Movie 160
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="https://i.imgur.com/9L0oLMH.png" tvg-chno="" group-title="IMDb Top 250 Movies",Movie 161
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="https://i.imgur.com/9L0oLMH.png" tvg-chno="" group-title="IMDb Top 250 Movies",Movie 162
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="https://i.imgur.com/9L0oLMH.png" tvg-chno="" group-title="IMDb Top 250 Movies",Movie 163
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="https://i.imgur.com/9L0oLMH.png" tvg-chno="" group-title="IMDb Top 250 Movies",Movie 164
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="https://i.imgur.com/9L0oLMH.png" tvg-chno="" group-title="IMDb Top 250 Movies",Movie 165
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="https://i.imgur.com/9L0oLMH.png" tvg-chno="" group-title="IMDb Top 250 Movies",Movie 166
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="https://i.imgur.com/9L0oLMH.png" tvg-chno="" group-title="IMDb Top 250 Movies",Movie 167
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="https://i.imgur.com/9L0oLMH.png" tvg-chno="" group-title="IMDb Top 250 Movies",Movie 168
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="https://i.imgur.com/9L0oLMH.png" tvg-chno="" group-title="IMDb Top 250 Movies",Movie 169
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="https://i.imgur.com/9L0oLMH.png" tvg-chno="" group-title="IMDb Top 250 Movies",Movie 170
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="https://i.imgur.com/9L0oLMH.png" tvg-chno="" group-title="IMDb Top 250 Movies",Movie 171
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="https://i.imgur.com/9L0oLMH.png" tvg-chno="" group-title="IMDb Top 250 Movies",Movie 172
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="https://i.imgur.com/9L0oLMH.png" tvg-chno="" group-title="IMDb Top 250 Movies",Movie 173
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="https://i.imgur.com/9L0oLMH.png" tvg-chno="" group-title="IMDb Top 250 Movies",Movie 174
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="https://i.imgur.com/9L0oLMH.png" tvg-chno="" group-title="IMDb Top 250 Movies",Movie 175
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="https://i.imgur.com/9L0oLMH.png" tvg-chno="" group-title="IMDb Top 250 Movies",Movie 176
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="https://i.imgur.com/9L0oLMH.png" tvg-chno="" group-title="IMDb Top 250 Movies",Movie 177
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="https://i.imgur.com/9L0oLMH.png" tvg-chno="" group-title="IMDb Top 250 Movies",Movie 178
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="https://i.imgur.com/9L0oLMH.png" tvg-chno="" group-title="IMDb Top 250 Movies",Movie 179
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="https://i.imgur.com/9L0oLMH.png" tvg-chno="" group-title="IMDb Top 250 Movies",Movie 180
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="https://i.imgur.com/9L0oLMH.png" tvg-chno="" group-title="IMDb Top 250 Movies",Movie 181
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="https://i.imgur.com/9L0oLMH.png" tvg-chno="" group-title="IMDb Top 250 Movies",Movie 182
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="https://i.imgur.com/9L0oLMH.png" tvg-chno="" group-title="IMDb Top 250 Movies",Movie 183
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="https://i.imgur.com/9L0oLMH.png" tvg-chno="" group-title="IMDb Top 250 Movies",Movie 184
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="https://i.imgur.com/9L0oLMH.png" tvg-chno="" group-title="IMDb Top 250 Movies",Movie 185
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="https://i.imgur.com/9L0oLMH.png" tvg-chno="" group-title="IMDb Top 250 Movies",Movie 186
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="https://i.imgur.com/9L0oLMH.png" tvg-chno="" group-title="IMDb Top 250 Movies",Movie 187
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="https://i.imgur.com/9L0oLMH.png" tvg-chno="" group-title="IMDb Top 250 Movies",Movie 188
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="https://i.imgur.com/9L0oLMH.png" tvg-chno="" group-title="IMDb Top 250 Movies",Movie 189
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="https://i.imgur.com/9L0oLMH.png" tvg-chno="" group-title="IMDb Top 250 Movies",Movie 190
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="https://i.imgur.com/9L0oLMH.png" tvg-chno="" group-title="IMDb Top 250 Movies",Movie 191
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="https://i.imgur.com/9L0oLMH.png" tvg-chno="" group-title="IMDb Top 250 Movies",Movie 192
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="https://i.imgur.com/9L0oLMH.png" tvg-chno="" group-title="IMDb Top 250 Movies",Movie 193
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="https://i.imgur.com/9L0oLMH.png" tvg-chno="" group-title="IMDb Top 250 Movies",Movie 194
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="https://i.imgur.com/9L0oLMH.png" tvg-chno="" group-title="IMDb Top 250 Movies",Movie 195
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="https://i.imgur.com/9L0oLMH.png" tvg-chno="" group-title="IMDb Top 250 Movies",Movie 196
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="https://i.imgur.com/9L0oLMH.png" tvg-chno="" group-title="IMDb Top 250 Movies",Movie 197
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="https://i.imgur.com/9L0oLMH.png" tvg-chno="" group-title="IMDb Top 250 Movies",Movie 198
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="https://i.imgur.com/9L0oLMH.png" tvg-chno="" group-title="IMDb Top 250 Movies",Movie 199
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="https://i.imgur.com/9L0oLMH.png" tvg-chno="" group-title="IMDb Top 250 Movies",Movie 200
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="https://i.imgur.com/9L0oLMH.png" tvg-chno="" group-title="IMDb Top 250 Movies",Movie 201
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="https://i.imgur.com/9L0oLMH.png" tvg-chno="" group-title="IMDb Top 250 Movies",Movie 202
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="https://i.imgur.com/9L0oLMH.png" tvg-chno="" group-title="IMDb Top 250 Movies",Movie 203
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="https://i.imgur.com/9L0oLMH.png" tvg-chno="" group-title="IMDb Top 250 Movies",Movie 204
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="https://i.imgur.com/9L0oLMH.png" tvg-chno="" group-title="IMDb Top 250 Movies",Movie 205
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="https://i.imgur.com/9L0oLMH.png" tvg-chno="" group-title="IMDb Top 250 Movies",Movie 206
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="https://i.imgur.com/9L0oLMH.png" tvg-chno="" group-title="IMDb Top 250 Movies",Movie 207
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="https://i.imgur.com/9L0oLMH.png" tvg-chno="" group-title="IMDb Top 250 Movies",Movie 208
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="https://i.imgur.com/9L0oLMH.png" tvg-chno="" group-title="IMDb Top 250 Movies",Movie 209
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="https://i.imgur.com/9L0oLMH.png" tvg-chno="" group-title="IMDb Top 250 Movies",Movie 210
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="https://i.imgur.com/9L0oLMH.png" tvg-chno="" group-title="IMDb Top 250 Movies",Movie 211
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="https://i.imgur.com/9L0oLMH.png" tvg-chno="" group-title="IMDb Top 250 Movies",Movie 212
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="https://i.imgur.com/9L0oLMH.png" tvg-chno="" group-title="IMDb Top 250 Movies",Movie 213
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="https://i.imgur.com/9L0oLMH.png" tvg-chno="" group-title="IMDb Top 250 Movies",Movie 214
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="https://i.imgur.com/9L0oLMH.png" tvg-chno="" group-title="IMDb Top 250 Movies",Movie 215
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="https://i.imgur.com/9L0oLMH.png" tvg-chno="" group-title="IMDb Top 250 Movies",Movie 216
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="https://i.imgur.com/9L0oLMH.png" tvg-chno="" group-title="IMDb Top 250 Movies",Movie 217
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="https://i.imgur.com/9L0oLMH.png" tvg-chno="" group-title="IMDb Top 250 Movies",Movie 218
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="https://i.imgur.com/9L0oLMH.png" tvg-chno="" group-title="IMDb Top 250 Movies",Movie 219
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="https://i.imgur.com/9L0oLMH.png" tvg-chno="" group-title="IMDb Top 250 Movies",Movie 220
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="https://i.imgur.com/9L0oLMH.png" tvg-chno="" group-title="IMDb Top 250 Movies",Movie 221
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="https://i.imgur.com/9L0oLMH.png" tvg-chno="" group-title="IMDb Top 250 Movies",Movie 222
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="https://i.imgur.com/9L0oLMH.png" tvg-chno="" group-title="IMDb Top 250 Movies",Movie 223
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="https://i.imgur.com/9L0oLMH.png" tvg-chno="" group-title="IMDb Top 250 Movies",Movie 224
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="https://i.imgur.com/9L0oLMH.png" tvg-chno="" group-title="IMDb Top 250 Movies",Movie 225
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="https://i.imgur.com/9L0oLMH.png" tvg-chno="" group-title="IMDb Top 250 Movies",Movie 226
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="https://i.imgur.com/9L0oLMH.png" tvg-chno="" group-title="IMDb Top 250 Movies",Movie 227
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="https://i.imgur.com/9L0oLMH.png" tvg-chno="" group-title="IMDb Top 250 Movies",Movie 228
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="https://i.imgur.com/9L0oLMH.png" tvg-chno="" group-title="IMDb Top 250 Movies",Movie 229
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="https://i.imgur.com/9L0oLMH.png" tvg-chno="" group-title="IMDb Top 250 Movies",Movie 230
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="https://i.imgur.com/9L0oLMH.png" tvg-chno="" group-title="IMDb Top 250 Movies",Movie 231
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="https://i.imgur.com/9L0oLMH.png" tvg-chno="" group-title="IMDb Top 250 Movies",Movie 232
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="https://i.imgur.com/9L0oLMH.png" tvg-chno="" group-title="IMDb Top 250 Movies",Movie 233
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="https://i.imgur.com/9L0oLMH.png" tvg-chno="" group-title="IMDb Top 250 Movies",Movie 234
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="https://i.imgur.com/9L0oLMH.png" tvg-chno="" group-title="IMDb Top 250 Movies",Movie 235
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="https://i.imgur.com/9L0oLMH.png" tvg-chno="" group-title="IMDb Top 250 Movies",Movie 236
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="https://i.imgur.com/9L0oLMH.png" tvg-chno="" group-title="IMDb Top 250 Movies",Movie 237
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="https://i.imgur.com/9L0oLMH.png" tvg-chno="" group-title="IMDb Top 250 Movies",Movie 238
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="https://i.imgur.com/9L0oLMH.png" tvg-chno="" group-title="IMDb Top 250 Movies",Movie 239
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="https://i.imgur.com/9L0oLMH.png" tvg-chno="" group-title="IMDb Top 250 Movies",Movie 240
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="https://i.imgur.com/9L0oLMH.png" tvg-chno="" group-title="IMDb Top 250 Movies",Movie 241
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="https://i.imgur.com/9L0oLMH.png" tvg-chno="" group-title="IMDb Top 250 Movies",Movie 242
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="https://i.imgur.com/9L0oLMH.png" tvg-chno="" group-title="IMDb Top 250 Movies",Movie 243
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="https://i.imgur.com/9L0oLMH.png" tvg-chno="" group-title="IMDb Top 250 Movies",Movie 244
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="https://i.imgur.com/9L0oLMH.png" tvg-chno="" group-title="IMDb Top 250 Movies",Movie 245
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="https://i.imgur.com/9L0oLMH.png" tvg-chno="" group-title="IMDb Top 250 Movies",Movie 246
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="https://i.imgur.com/9L0oLMH.png" tvg-chno="" group-title="IMDb Top 250 Movies",Movie 247
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="https://i.imgur.com/9L0oLMH.png" tvg-chno="" group-title="IMDb Top 250 Movies",Movie 248
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="https://i.imgur.com/9L0oLMH.png" tvg-chno="" group-title="IMDb Top 250 Movies",Movie 249
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="https://i.imgur.com/9L0oLMH.png" tvg-chno="" group-title="IMDb Top 250 Movies",Movie 250
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="http://172.16.50.14/DHAKA-FLIX-14/IMDb%20Top-250%20Movies/001.%20The%20Shawshank%20Redemption%20%281994%29%201080p%20%5BDual%20Audio%5D/a11.jpg" tvg-chno="" group-title="IMDb Top 250 Movies",001. The Shawshank Redemption (1994) 1080p
+http://172.16.50.14/DHAKA-FLIX-14/IMDb%20Top-250%20Movies/001.%20The%20Shawshank%20Redemption%20%281994%29%201080p%20%5BDual%20Audio%5D/The%20Shawshank%20Redemption%20%281994%29%20REM%201080p%20BluRay%20x265%20HEVC%20ESub%20%5BDual%20Audio%5D%5BHindi%205.1%2BEnglish%205.1%5D%20-OlaM.mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="http://172.16.50.14/DHAKA-FLIX-14/IMDb%20Top-250%20Movies/002.%20The%20Godfather%20%281972%29%201080p%20%5BDual%20Audio%5D/a11.jpg" tvg-chno="" group-title="IMDb Top 250 Movies",002. The Godfather (1972) 1080p
+http://172.16.50.14/DHAKA-FLIX-14/IMDb%20Top-250%20Movies/002.%20The%20Godfather%20%281972%29%201080p%20%5BDual%20Audio%5D/The%20Godfather%20Part%20I%20%281972%29%20RM%201080p%20BluRay%20x265%20HEVC%20ESub%20%5BDual%20Audio%5D%5BHindi%205.1%2BEnglish%205.1%5D%20-OlaM.mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="http://172.16.50.14/DHAKA-FLIX-14/IMDb%20Top-250%20Movies/003.%20The%20Dark%20Knight%20%282008%29%201080p%20%5BDual%20Audio%5D/a11.jpg" tvg-chno="" group-title="IMDb Top 250 Movies",003. The Dark Knight (2008) 1080p
+http://172.16.50.14/DHAKA-FLIX-14/IMDb%20Top-250%20Movies/003.%20The%20Dark%20Knight%20%282008%29%201080p%20%5BDual%20Audio%5D/The%20Dark%20Knight%20%282008%29%20IMAX%201080p%20BluRay%20x265%20HEVC%20ESub%20%5BDual%20Audio%5D%5BHindi%202.0%2BEnglish%205.1%5D%20-mkvC.mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="http://172.16.50.14/DHAKA-FLIX-14/IMDb%20Top-250%20Movies/004.%20The%20Godfather-Part%20II%20%281974%29%201080p%20%5BDual%20Audio%5D/a11.jpg" tvg-chno="" group-title="IMDb Top 250 Movies",004. The Godfather-Part II (1974) 1080p
+http://172.16.50.14/DHAKA-FLIX-14/IMDb%20Top-250%20Movies/004.%20The%20Godfather-Part%20II%20%281974%29%201080p%20%5BDual%20Audio%5D/The%20Godfather%20Part%20II%20%281974%29%201080p%20BluRay%20x265%20HEVC%20ESub%20%5BDual%20Audio%5D%5BHindi%205.1%2BEnglish%205.1%5D%20-mkvC.mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="http://172.16.50.14/DHAKA-FLIX-14/IMDb%20Top-250%20Movies/005.%2012%20Angry%20Men%20%281957%29%201080p/a11.jpg" tvg-chno="" group-title="IMDb Top 250 Movies",005. 12 Angry Men (1957) 1080p
+http://172.16.50.14/DHAKA-FLIX-14/IMDb%20Top-250%20Movies/005.%2012%20Angry%20Men%20%281957%29%201080p/12%20Angry%20Men%20%281957%29%201080p%20BluRay%20x265%20HEVC%2010bit%20AAC%201.0%20ESub-Silence.mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="http://172.16.50.14/DHAKA-FLIX-14/IMDb%20Top-250%20Movies/006.%20Schindler%27s%20List%20%281993%29%201080p%20%5BDual%20Audio%5D/a11.jpg" tvg-chno="" group-title="IMDb Top 250 Movies",006. Schindler's List (1993) 1080p [Dual Audio]
+http://172.16.50.14/DHAKA-FLIX-14/IMDb%20Top-250%20Movies/006.%20Schindler%27s%20List%20%281993%29%201080p%20%5BDual%20Audio%5D/Schindlers%20List%20%281993%29%201080p%20BluRay%20x265%20HEVC%20ESub%20%5BDual%20Audio%5D%5BHindi%205.1%2BEnglish%205.1%5D%20-mkvC.mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="http://172.16.50.14/DHAKA-FLIX-14/IMDb%20Top-250%20Movies/007.%20The%20Lord%20of%20the%20Rings-The%20Return%20of%20the%20King%20%282003%29%201080p%20%5BDual%20Audio%5D/a11.jpg" tvg-chno="" group-title="IMDb Top 250 Movies",007. The Lord of the Rings-The Return of the King (2003) 1080p [Dual Audio]
+http://172.16.50.14/DHAKA-FLIX-14/IMDb%20Top-250%20Movies/007.%20The%20Lord%20of%20the%20Rings-The%20Return%20of%20the%20King%20%282003%29%201080p%20%5BDual%20Audio%5D/The%20Lord%20of%20the%20Rings%203%20%282003%29%20REM%20EXTENDED%201080p%20BluRay%20x265%20HEVC%20ESub%20%5BDual%20Audio%5D%5BHindi%205.1%2BEnglish%205.1%5D%20-3xO.mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="http://172.16.50.14/DHAKA-FLIX-14/IMDb%20Top-250%20Movies/008.%20Pulp%20Fiction%20%281994%29%201080p/a11.jpg" tvg-chno="" group-title="IMDb Top 250 Movies",008. Pulp Fiction (1994) 1080p
+http://172.16.50.14/DHAKA-FLIX-14/IMDb%20Top-250%20Movies/008.%20Pulp%20Fiction%20%281994%29%201080p/Pulp%20Fiction%20%281994%29%201080p%20BluRay%20x265%20HEVC%2010bit%20AAC%205.1%20ESub-mkvC.mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="http://172.16.50.14/DHAKA-FLIX-14/IMDb%20Top-250%20Movies/009.%20The%20Lord%20of%20the%20Rings-The%20Fellowship%20of%20the%20Ring%20%282001%29%201080p%20%5BDual%20Audio%5D/a11.jpg" tvg-chno="" group-title="IMDb Top 250 Movies",009. The Lord of the Rings-The Fellowship of the Ring (2001) 1080p [Dual Audio]
+http://172.16.50.14/DHAKA-FLIX-14/IMDb%20Top-250%20Movies/009.%20The%20Lord%20of%20the%20Rings-The%20Fellowship%20of%20the%20Ring%20%282001%29%201080p%20%5BDual%20Audio%5D/The%20Lord%20of%20the%20Rings%201%20%282001%29%20REM%20EXTENDED%201080p%20BluRay%20x265%20HEVC%20ESub%20%5BDual%20Audio%5D%5BHindi%205.1%2BEnglish%205.1%5D%20-3xO.mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="http://172.16.50.14/DHAKA-FLIX-14/IMDb%20Top-250%20Movies/010.%20The%20Good%2C%20the%20Bad%20and%20the%20Ugly%20%281966%29%201080p/a11.jpg" tvg-chno="" group-title="IMDb Top 250 Movies",010. The Good, the Bad and the Ugly (1966) 1080p
+http://172.16.50.14/DHAKA-FLIX-14/IMDb%20Top-250%20Movies/010.%20The%20Good%2C%20the%20Bad%20and%20the%20Ugly%20%281966%29%201080p/The%20Good%2C%20the%20Bad%20and%20the%20Ugly%20%281966%29%20Extended%20RM4K%201080p%20BluRay%20x265%20HEVC%2010bit%20AAC%205.1%20ESub-Tigole.mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="http://172.16.50.14/DHAKA-FLIX-14/IMDb%20Top-250%20Movies/011.%20Forrest%20Gump%20%281994%29%201080p%20%5BDual%20Audio%5D/a11.jpg" tvg-chno="" group-title="IMDb Top 250 Movies",011. Forrest Gump (1994) 1080p [Dual Audio]
+http://172.16.50.14/DHAKA-FLIX-14/IMDb%20Top-250%20Movies/011.%20Forrest%20Gump%20%281994%29%201080p%20%5BDual%20Audio%5D/Forrest%20Gump%20%281994%29%20REM%201080p%20BluRay%20x265%20HEVC%20ESub%20%5BDual%20Audio%5D%5BHindi%202.0%2BEnglish%205.1%5D%20-mkvC.mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="http://172.16.50.14/DHAKA-FLIX-14/IMDb%20Top-250%20Movies/012.%20The%20Lord%20of%20the%20Rings-The%20Two%20Towers%20%282002%29%201080p%20%5BDual%20Audio%5D/a11.jpg" tvg-chno="" group-title="IMDb Top 250 Movies",012. The Lord of the Rings-The Two Towers (2002) 1080p [Dual Audio]
+http://172.16.50.14/DHAKA-FLIX-14/IMDb%20Top-250%20Movies/012.%20The%20Lord%20of%20the%20Rings-The%20Two%20Towers%20%282002%29%201080p%20%5BDual%20Audio%5D/The%20Lord%20of%20the%20Rings%202%20%282002%29%20REM%20EXTENDED%201080p%20BluRay%20x265%20HEVC%20ESub%20%5BDual%20Audio%5D%5BHindi%205.1%2BEnglish%205.1%5D%20-3xO.mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="http://172.16.50.14/DHAKA-FLIX-14/IMDb%20Top-250%20Movies/013.%20Fight%20Club%20%281999%29%201080p%20%5BDual%20Audio%5D/a11.jpg" tvg-chno="" group-title="IMDb Top 250 Movies",013. Fight Club (1999) 1080p [Dual Audio]
+http://172.16.50.14/DHAKA-FLIX-14/IMDb%20Top-250%20Movies/013.%20Fight%20Club%20%281999%29%201080p%20%5BDual%20Audio%5D/Fight%20Club%20%281999%29%20RM%201080p%20BluRay%20x265%20HEVC%20ESub%20%5BDual%20Audio%5D%5BHindi%202.0%2BEnglish%205.1%5D%20-OlaM.mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="http://172.16.50.14/DHAKA-FLIX-14/IMDb%20Top-250%20Movies/014.%20Inception%20%282010%29%201080p%20%5BDual%20Audio%5D/a11.jpg" tvg-chno="" group-title="IMDb Top 250 Movies",014. Inception (2010) 1080p [Dual Audio]
+http://172.16.50.14/DHAKA-FLIX-14/IMDb%20Top-250%20Movies/014.%20Inception%20%282010%29%201080p%20%5BDual%20Audio%5D/Inception%20%282010%29%201080p%20BluRay%20x265%20HEVC%20ESub%20%5BDual%20Audio%5D%5BHindi%205.1%2BEnglish%205.1%5D%20-mkvC.mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="http://172.16.50.14/DHAKA-FLIX-14/IMDb%20Top-250%20Movies/015.%20Dune-Part%20Two%20%282024%29%20%28Coming%20Soon%29/a11.jpg" tvg-chno="" group-title="IMDb Top 250 Movies",015. Dune-Part Two (2024) (Coming Soon)
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="http://172.16.50.14/DHAKA-FLIX-14/IMDb%20Top-250%20Movies/016.%20Star%20Wars-Episode%20V%20-%20The%20Empire%20Strikes%20Back%20%281980%29%201080p%20%5BDual%20Audio%5D/a11.jpg" tvg-chno="" group-title="IMDb Top 250 Movies",016. Star Wars-Episode V - The Empire Strikes Back (1980) 1080p [Dual Audio]
+http://172.16.50.14/DHAKA-FLIX-14/IMDb%20Top-250%20Movies/016.%20Star%20Wars-Episode%20V%20-%20The%20Empire%20Strikes%20Back%20%281980%29%201080p%20%5BDual%20Audio%5D/Star%20Wars%20Episode%20V%20%281980%29%20RM%201080p%20BluRay%20x265%20HEVC%20ESub%20%5BDual%20Audio%5D%5BHindi%202.0%2BEnglish%205.1%5D%20-mkvC.mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="http://172.16.50.14/DHAKA-FLIX-14/IMDb%20Top-250%20Movies/017.%20The%20Matrix%20%281999%29%201080p%20%5BDual%20Audio%5D/a11.jpg" tvg-chno="" group-title="IMDb Top 250 Movies",017. The Matrix (1999) 1080p [Dual Audio]
+http://172.16.50.14/DHAKA-FLIX-14/IMDb%20Top-250%20Movies/017.%20The%20Matrix%20%281999%29%201080p%20%5BDual%20Audio%5D/The%20Matrix%20%281999%29%20RM%201080p%20BluRay%20x265%20HEVC%20ESub%20%5BDual%20Audio%5D%5BHindi%205.1%2BEnglish%205.1%5D%20-TDoc.mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="http://172.16.50.14/DHAKA-FLIX-14/IMDb%20Top-250%20Movies/018.%20Goodfellas%20%281990%29%201080p/a11.jpg" tvg-chno="" group-title="IMDb Top 250 Movies",018. Goodfellas (1990) 1080p
+http://172.16.50.14/DHAKA-FLIX-14/IMDb%20Top-250%20Movies/018.%20Goodfellas%20%281990%29%201080p/Goodfellas%20%281990%29%20REM%201080p%20BluRay%20x265%20HEVC%2010bit%20AAC%205.1%20ESub-mkvC.mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="http://172.16.50.14/DHAKA-FLIX-14/IMDb%20Top-250%20Movies/019.%20One%20Flew%20Over%20the%20Cuckoo%27s%20Nest%20%281975%29%201080p/a11.jpg" tvg-chno="" group-title="IMDb Top 250 Movies",019. One Flew Over the Cuckoo's Nest (1975) 1080p
+http://172.16.50.14/DHAKA-FLIX-14/IMDb%20Top-250%20Movies/019.%20One%20Flew%20Over%20the%20Cuckoo%27s%20Nest%20%281975%29%201080p/One%20Flew%20Over%20the%20Cuckoo%27s%20Nest%20%281975%29%201080p%20BluRay%20x265%20HEVC%2010bit%20AAC%205.1%20ESub-Tigole.mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="http://172.16.50.14/DHAKA-FLIX-14/IMDb%20Top-250%20Movies/020.%20Se7en%20%281995%29%201080p%20%5BDual%20Audio%5D/a11.jpg" tvg-chno="" group-title="IMDb Top 250 Movies",020. Se7en (1995) 1080p [Dual Audio]
+http://172.16.50.14/DHAKA-FLIX-14/IMDb%20Top-250%20Movies/020.%20Se7en%20%281995%29%201080p%20%5BDual%20Audio%5D/Se7en%20%281995%29%20RM%201080p%20BluRay%20x265%20HEVC%20ESub%20%5BDual%20Audio%5D%5BHindi%202.0%2BEnglish%207.1%5D%20-OlaM.mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="http://172.16.50.14/DHAKA-FLIX-14/IMDb%20Top-250%20Movies/021.%20Interstellar%20%282014%29%201080p%20%5BDual%20Audio%5D/a11.jpg" tvg-chno="" group-title="IMDb Top 250 Movies",021. Interstellar (2014) 1080p [Dual Audio]
+http://172.16.50.14/DHAKA-FLIX-14/IMDb%20Top-250%20Movies/021.%20Interstellar%20%282014%29%201080p%20%5BDual%20Audio%5D/Interstellar%20%282014%29%20IMAX%201080p%20BluRay%20x265%20HEVC%20ESub%20%5BDual%20Audio%5D%5BHindi%205.1%2BEnglish%205.1%5D%20-OlaM.mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="http://172.16.50.14/DHAKA-FLIX-14/IMDb%20Top-250%20Movies/022.%20It%27s%20a%20Wonderful%20Life%20%281946%29%201080p/a11.jpg" tvg-chno="" group-title="IMDb Top 250 Movies",022. It's a Wonderful Life (1946) 1080p
+http://172.16.50.14/DHAKA-FLIX-14/IMDb%20Top-250%20Movies/022.%20It%27s%20a%20Wonderful%20Life%20%281946%29%201080p/It%27s%20a%20Wonderful%20Life%20%281946%29%201080p%20BluRay%20x265%20HEVC%2010bit%20AAC%202.0%20MSubs-Tigole.mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="http://172.16.50.14/DHAKA-FLIX-14/IMDb%20Top-250%20Movies/023.%20Seven%20Samurai%20%281954%29%201080p/a11.jpg" tvg-chno="" group-title="IMDb Top 250 Movies",023. Seven Samurai (1954) 1080p
+http://172.16.50.14/DHAKA-FLIX-14/IMDb%20Top-250%20Movies/023.%20Seven%20Samurai%20%281954%29%201080p/Seven%20Samurai%20%281954%29%20REM%20Japanese%201080p%20BluRay%20x265%20HEVC%2010bit%20AAC%202.0%20ESub-HBay.mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="http://172.16.50.14/DHAKA-FLIX-14/IMDb%20Top-250%20Movies/024.%20The%20Silence%20of%20the%20Lambs%20%281991%29%201080p%20%5BDual%20Audio%5D/a11.jpg" tvg-chno="" group-title="IMDb Top 250 Movies",024. The Silence of the Lambs (1991) 1080p [Dual Audio]
+http://172.16.50.14/DHAKA-FLIX-14/IMDb%20Top-250%20Movies/024.%20The%20Silence%20of%20the%20Lambs%20%281991%29%201080p%20%5BDual%20Audio%5D/The%20Silence%20of%20the%20Lambs%20%281991%29%20RM%201080p%20BluRay%20x265%20HEVC%20ESub%20%5BDual%20Audio%5D%5BHindi%202.0%2BEnglish%205.1%5D%20-mkvC.mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="http://172.16.50.14/DHAKA-FLIX-14/IMDb%20Top-250%20Movies/025.%20Saving%20Private%20Ryan%20%281998%29%201080p%20%5BDual%20Audio%5D/a11.jpg" tvg-chno="" group-title="IMDb Top 250 Movies",025. Saving Private Ryan (1998) 1080p [Dual Audio]
+http://172.16.50.14/DHAKA-FLIX-14/IMDb%20Top-250%20Movies/025.%20Saving%20Private%20Ryan%20%281998%29%201080p%20%5BDual%20Audio%5D/Saving%20Private%20Ryan%20%281998%29%201080p%20BluRay%20x265%20HEVC%20ESub%20%5BDual%20Audio%5D%5BHindi%205.1%2BEnglish%205.1%5D%20-OlaM.mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="http://172.16.50.14/DHAKA-FLIX-14/IMDb%20Top-250%20Movies/026.%20City%20of%20God%20%282002%29%201080p/a11.jpg" tvg-chno="" group-title="IMDb Top 250 Movies",026. City of God (2002) 1080p
+http://172.16.50.14/DHAKA-FLIX-14/IMDb%20Top-250%20Movies/026.%20City%20of%20God%20%282002%29%201080p/City%20of%20God%20%282002%29%20Portuguese%201080p%20BluRay%20x265%20HEVC%2010bit%20AAC%205.1%20ESub-Tigole.mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="http://172.16.50.14/DHAKA-FLIX-14/IMDb%20Top-250%20Movies/027.%20Life%20Is%20Beautiful%20%281997%29%201080p%20%5BDual%20Audio%5D/a11.jpg" tvg-chno="" group-title="IMDb Top 250 Movies",027. Life Is Beautiful (1997) 1080p [Dual Audio]
+http://172.16.50.14/DHAKA-FLIX-14/IMDb%20Top-250%20Movies/027.%20Life%20Is%20Beautiful%20%281997%29%201080p%20%5BDual%20Audio%5D/Life%20Is%20Beautiful%20%281997%29%201080p%20BluRay%20x265%20HEVC%20ESub%20%5BDual%20Audio%5D%5BHindi%202.0%2BEnglish%205.1%5D%20-mkvC.mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="http://172.16.50.14/DHAKA-FLIX-14/IMDb%20Top-250%20Movies/028.%20The%20Green%20Mile%20%281999%29%201080p%20%5BDual%20Audio%5D/a11.jpg" tvg-chno="" group-title="IMDb Top 250 Movies",028. The Green Mile (1999) 1080p [Dual Audio]
+http://172.16.50.14/DHAKA-FLIX-14/IMDb%20Top-250%20Movies/028.%20The%20Green%20Mile%20%281999%29%201080p%20%5BDual%20Audio%5D/The%20Green%20Mile%20%281999%29%201080p%20BluRay%20x265%20HEVC%20ESub%20%5BDual%20Audio%5D%5BHindi%205.1%2BEnglish%205.1%5D%20-mkvC.mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="http://172.16.50.14/DHAKA-FLIX-14/IMDb%20Top-250%20Movies/029.%20Terminator%202-Judgment%20Day%20%281991%29%201080p%20%5BDual%20Audio%5D/a11.jpg" tvg-chno="" group-title="IMDb Top 250 Movies",029. Terminator 2-Judgment Day (1991) 1080p [Dual Audio]
+http://172.16.50.14/DHAKA-FLIX-14/IMDb%20Top-250%20Movies/029.%20Terminator%202-Judgment%20Day%20%281991%29%201080p%20%5BDual%20Audio%5D/Terminator%202%20Judgment%20Day%20%281991%29%20DC%201080p%20BluRay%20x265%20HEVC%20ESub%20%5BDual%20Audio%5D%5BHindi%205.1%2BEnglish%205.1%5D%20-mkvC.mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="http://172.16.50.14/DHAKA-FLIX-14/IMDb%20Top-250%20Movies/030.%20Star%20Wars-Episode%20IV%20-%20A%20New%20Hope%20%281977%29%201080p%20%5BDual%20Audio%5D/a11.jpg" tvg-chno="" group-title="IMDb Top 250 Movies",030. Star Wars-Episode IV - A New Hope (1977) 1080p [Dual Audio]
+http://172.16.50.14/DHAKA-FLIX-14/IMDb%20Top-250%20Movies/030.%20Star%20Wars-Episode%20IV%20-%20A%20New%20Hope%20%281977%29%201080p%20%5BDual%20Audio%5D/Star%20Wars%20Episode%20IV%20%281977%29%20RM%201080p%20BluRay%20x265%20HEVC%20ESub%20%5BDual%20Audio%5D%5BHindi%202.0%2BEnglish%205.1%5D%20-mkvC.mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="" tvg-chno="" group-title="IMDb Top 250 Movies",
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="" tvg-chno="" group-title="IMDb Top 250 Movies",
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="" tvg-chno="" group-title="IMDb Top 250 Movies",
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="" tvg-chno="" group-title="IMDb Top 250 Movies",
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="" tvg-chno="" group-title="IMDb Top 250 Movies",
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="" tvg-chno="" group-title="IMDb Top 250 Movies",
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="" tvg-chno="" group-title="IMDb Top 250 Movies",
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="" tvg-chno="" group-title="IMDb Top 250 Movies",
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="" tvg-chno="" group-title="IMDb Top 250 Movies",
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="" tvg-chno="" group-title="IMDb Top 250 Movies",
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="" tvg-chno="" group-title="IMDb Top 250 Movies",
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="" tvg-chno="" group-title="IMDb Top 250 Movies",
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="" tvg-chno="" group-title="IMDb Top 250 Movies",
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="" tvg-chno="" group-title="IMDb Top 250 Movies",
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="" tvg-chno="" group-title="IMDb Top 250 Movies",
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="" tvg-chno="" group-title="IMDb Top 250 Movies",
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="" tvg-chno="" group-title="IMDb Top 250 Movies",
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="" tvg-chno="" group-title="IMDb Top 250 Movies",
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="" tvg-chno="" group-title="IMDb Top 250 Movies",
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="" tvg-chno="" group-title="IMDb Top 250 Movies",
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="" tvg-chno="" group-title="IMDb Top 250 Movies",
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="" tvg-chno="" group-title="IMDb Top 250 Movies",
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="" tvg-chno="" group-title="IMDb Top 250 Movies",
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="" tvg-chno="" group-title="IMDb Top 250 Movies",
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="" tvg-chno="" group-title="IMDb Top 250 Movies",
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="" tvg-chno="" group-title="IMDb Top 250 Movies",
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="" tvg-chno="" group-title="IMDb Top 250 Movies",
 
 
 
-#───────────── VOD Movies ─────────────
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="https://i.imgur.com/9L0oLMH.png" tvg-chno="" group-title="MOVIES",Movie Name
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="http://172.16.50.14/DHAKA-FLIX-14/IMDb%20Top-250%20Movies/250.%20Paris%2C%20Texas%20%281984%29%201080p/a11.jpg" tvg-chno="" group-title="IMDb Top 250 Movies",250. Paris, Texas (1984) 1080p
+http://172.16.50.14/DHAKA-FLIX-14/IMDb%20Top-250%20Movies/250.%20Paris%2C%20Texas%20%281984%29%201080p/Paris%2C%20Texas%20%281984%29%20RM4K%201080p%20BluRay%20x265%20HEVC%2010bit%20AAC%205.1%20MSubs-Tigole.mkv
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="http://172.16.50.14/DHAKA-FLIX-14/English%20Movies%20%281080p%29/%281997%29%201080p/Titanic%20%281997%29%201080p/a0_AL_.jpg" tvg-chno="" group-title="MOVIES",Titanic (1997) 1080p BluRay
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="http://172.16.50.14/DHAKA-FLIX-14/English%20Movies%20%281080p%29/%281997%29%201080p/Titanic%20%281997%29%201080p/a0_AL_.jpg" tvg-chno="" group-title="MOVIES",Titanic (1997) 1080p BluRay (VOD)
 http://172.16.50.14/DHAKA-FLIX-14/English%20Movies%20%281080p%29/%281997%29%201080p/Titanic%20%281997%29%201080p/Titanic%20%281997%29%201080p%20BluRay%20x265%20HEVC%2010bit%20AAC%205.1%20MSubs-Silence.mkv
 
 
-#───────────── VOD Series ─────────────
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="https://i.imgur.com/9L0oLMH.png" tvg-chno="" group-title="SERIES",Series Name
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="http://172.16.50.12/DHAKA-FLIX-12/TV-WEB-Series/TV%20Series%20%E2%99%A5%20%20A%20%20%E2%80%94%20%20L/Game%20of%20Thrones%20%28TV%20Series%202011%E2%80%932019%29%201080p%20%5BDual%20Audio%5D/a_VL_.jpg" tvg-chno="" group-title="SERIES",Game of Thrones
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="http://172.16.50.12/DHAKA-FLIX-12/TV-WEB-Series/TV%20Series%20%E2%99%A5%20%20A%20%20%E2%80%94%20%20L/Game%20of%20Thrones%20%28TV%20Series%202011%E2%80%932019%29%201080p%20%5BDual%20Audio%5D/a_VL_.jpg" tvg-chno="" group-title="SERIES",Game of Thrones (VOD)
 http://172.16.50.12/DHAKA-FLIX-12/TV-WEB-Series/TV%20Series%20%E2%99%A5%20%20A%20%20%E2%80%94%20%20L/Game%20of%20Thrones%20%28TV%20Series%202011%E2%80%932019%29%201080p%20%5BDual%20Audio%5D/Season%208/Game%20of%20Thrones%20S08E06%20%201080p%20BluRay%20x265%20HEVC%20ESub%20%5BDual%20Audio%5D%5BHindi%202.0%2BEnglish%207.1%5D%20-mkvC.mkv
