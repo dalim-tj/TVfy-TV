@@ -287,6 +287,9 @@ https://pub-5fec8fc694d94931914e330ee37acaab.r2.dev/CINEFREAK.NET%20-%20Toofan%2
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="https://image.tmdb.org/t/p/w300/bbVlVUS5KAO0XLKhSr5oNbbRXbG.jpg" tvg-chno="" group-title="BANGLA MOVIES",Priyotoma (2023) [Bengali] WEB-DL 720p
 https://pub-af45f79dddd146dcaf6b25c8102f263e.r2.dev/CineFreak.ME%20-%20Priyotoma%20%282023%29%20Bengali%20Bioscope%20WEB-DL%20720p.mkv
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="http://172.16.50.7/DHAKA-FLIX-7/Kolkata%20Bangla%20Movies/%282016%29/Power%20%282016%29%20720p/a0V.jpg" tvg-chno="" group-title="BANGLA MOVIES",Power (2016) (Bengali) 720p
+http://172.16.50.7/DHAKA-FLIX-7/Kolkata%20Bangla%20Movies/%282016%29/Power%20%282016%29%20720p/Power%20%282016%29%20%5BBengali%5D%20720p%20-%20HDRip%20-%20x264%20-%20AAC.mkv
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="" tvg-chno="" group-title="BANGLA MOVIES",
 
 
@@ -410,34 +413,84 @@ http://172.16.50.14/DHAKA-FLIX-14/IMDb%20Top-250%20Movies/029.%20Terminator%202-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="http://172.16.50.14/DHAKA-FLIX-14/IMDb%20Top-250%20Movies/030.%20Star%20Wars-Episode%20IV%20-%20A%20New%20Hope%20%281977%29%201080p%20%5BDual%20Audio%5D/a11.jpg" tvg-chno="" group-title="IMDb Top 250 Movies",030. Star Wars-Episode IV - A New Hope (1977) 1080p [Dual Audio]
 http://172.16.50.14/DHAKA-FLIX-14/IMDb%20Top-250%20Movies/030.%20Star%20Wars-Episode%20IV%20-%20A%20New%20Hope%20%281977%29%201080p%20%5BDual%20Audio%5D/Star%20Wars%20Episode%20IV%20%281977%29%20RM%201080p%20BluRay%20x265%20HEVC%20ESub%20%5BDual%20Audio%5D%5BHindi%202.0%2BEnglish%205.1%5D%20-mkvC.mkv
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="http://172.16.50.14/DHAKA-FLIX-14/IMDb%20Top-250%20Movies/031.%20Back%20to%20the%20Future%20%281985%29%201080p%20%5BDual%20Audio%5D/a11.jpg" tvg-chno="" group-title="IMDb Top 250 Movies",031. Back to the Future (1985) 1080p [Dual Audio]
+http://172.16.50.14/DHAKA-FLIX-14/IMDb%20Top-250%20Movies/031.%20Back%20to%20the%20Future%20%281985%29%201080p%20%5BDual%20Audio%5D/Back%20to%20the%20Future%20%281985%29%201080p%20BluRay%20x265%20HEVC%20ESub%20%5BDual%20Audio%5D%5BHindi%205.1%2BEnglish%205.1%5D%20-TDoc.mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="http://172.16.50.14/DHAKA-FLIX-14/IMDb%20Top-250%20Movies/032.%20Spirited%20Away%20%282001%29%201080p%20%5BMulti%20Audio%5D/a11.jpg" tvg-chno="" group-title="IMDb Top 250 Movies",032. Spirited Away (2001) 1080p [Multi Audio]
+http://172.16.50.14/DHAKA-FLIX-14/IMDb%20Top-250%20Movies/032.%20Spirited%20Away%20%282001%29%201080p%20%5BMulti%20Audio%5D/Spirited%20Away%20%282001%29%201080p%20BluRay%20x265%20HEVC%20ESub%20%5BMulti%20Audio%5D%5BHindi%205.1%2BJapanese%205.1%2BEnglish%205.1%5D%20-OlaM.mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="http://172.16.50.14/DHAKA-FLIX-14/IMDb%20Top-250%20Movies/033.%20The%20Pianist%20%282002%29%201080p%20%5BDual%20Audio%5D/a11.jpg" tvg-chno="" group-title="IMDb Top 250 Movies",033. The Pianist (2002) 1080p [Dual Audio]
+http://172.16.50.14/DHAKA-FLIX-14/IMDb%20Top-250%20Movies/033.%20The%20Pianist%20%282002%29%201080p%20%5BDual%20Audio%5D/The%20Pianist%20%282002%29%201080p%20BluRay%20x265%20HEVC%20ESub%20%5BDual%20Audio%5D%5BHindi%202.0%2BEnglish%205.1%5D%20-mkvA.mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="http://172.16.50.14/DHAKA-FLIX-14/IMDb%20Top-250%20Movies/034.%20Parasite%20%282019%29%201080p%20%5BDual%20Audio%5D/a11.jpg" tvg-chno="" group-title="IMDb Top 250 Movies",034. Parasite (2019) 1080p [Dual Audio]
+http://172.16.50.14/DHAKA-FLIX-14/IMDb%20Top-250%20Movies/034.%20Parasite%20%282019%29%201080p%20%5BDual%20Audio%5D/Parasite%20%282019%29%201080p%20BluRay%20x265%20HEVC%20ESub%20%5BDual%20Audio%5D%5BHindi%205.1%2BKorean%207.1%5D%20-OlaM.mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="http://172.16.50.14/DHAKA-FLIX-14/IMDb%20Top-250%20Movies/035.%20Psycho%20%281960%29%201080p%20%5BDual%20Audio%5D/a11.jpg" tvg-chno="" group-title="IMDb Top 250 Movies",035. Psycho (1960) 1080p [Dual Audio]
+http://172.16.50.14/DHAKA-FLIX-14/IMDb%20Top-250%20Movies/035.%20Psycho%20%281960%29%201080p%20%5BDual%20Audio%5D/Psycho%20%281960%29%201080p%20BluRay%20x265%20HEVC%20ESub%20%5BDual%20Audio%5D%5BHindi%202.0%2BEnglish%205.1%5D%20-mkvC.mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="http://172.16.50.14/DHAKA-FLIX-14/IMDb%20Top-250%20Movies/036.%20Spider-Man%20-%20Across%20the%20Spider-Verse%20%282023%29%201080p%20%5BDual%20Audio%5D/a11.jpg" tvg-chno="" group-title="IMDb Top 250 Movies",036. Spider-Man - Across the Spider-Verse (2023) 1080p [Dual Audio]
+http://172.16.50.14/DHAKA-FLIX-14/IMDb%20Top-250%20Movies/036.%20Spider-Man%20-%20Across%20the%20Spider-Verse%20%282023%29%201080p%20%5BDual%20Audio%5D/Spider-Man%20Across%20the%20Spider-Verse%20%282023%29%201080p%20BluRay%20x265%20HEVC%20ESub%20%5BDual%20Audio%5D%5BHindi%205.1%2BEnglish%205.1%5D%20-mkvC.mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="http://172.16.50.14/DHAKA-FLIX-14/IMDb%20Top-250%20Movies/037.%20Gladiator%20%282000%29%201080p%20%5BDual%20Audio%5D/a11.jpg" tvg-chno="" group-title="IMDb Top 250 Movies",037. Gladiator (2000) 1080p [Dual Audio]
+http://172.16.50.14/DHAKA-FLIX-14/IMDb%20Top-250%20Movies/037.%20Gladiator%20%282000%29%201080p%20%5BDual%20Audio%5D/Gladiator%20%282000%29%20EXTENDED%20REM%201080p%20BluRay%20x265%20HEVC%20ESub%20%5BDual%20Audio%5D%5BHindi%205.1%2BEnglish%205.1%5D%20-mkvC.mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="http://172.16.50.14/DHAKA-FLIX-14/IMDb%20Top-250%20Movies/038.%20The%20Lion%20King%20%281994%29%201080p%20%5BDual%20Audio%5D/a11.jpg" tvg-chno="" group-title="IMDb Top 250 Movies",038. The Lion King (1994) 1080p [Dual Audio]
+http://172.16.50.14/DHAKA-FLIX-14/IMDb%20Top-250%20Movies/038.%20The%20Lion%20King%20%281994%29%201080p%20%5BDual%20Audio%5D/The%20Lion%20King%20%281994%29%20Diamond%20Edition%201080p%20BluRay%20x265%20HEVC%20ESub%20%5BDual%20Audio%5D%5BHindi%202.0%2BEnglish%205.1%5D%20-OlaM.mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="http://172.16.50.14/DHAKA-FLIX-14/IMDb%20Top-250%20Movies/039.%20L%C3%A9on-The%20Professional%20%281994%29%201080p%20%5BDual%20Audio%5D/a11.jpg" tvg-chno="" group-title="IMDb Top 250 Movies",039. Léon-The Professional (1994) 1080p [Dual Audio]
+http://172.16.50.14/DHAKA-FLIX-14/IMDb%20Top-250%20Movies/039.%20L%C3%A9on-The%20Professional%20%281994%29%201080p%20%5BDual%20Audio%5D/Leon%20The%20Professional%20%281994%29%20REM%20Extended%201080p%20BluRay%20x265%20HEVC%20ESub%20%5BDual%20Audio%5D%5BHindi%202.0%2BEnglish%205.1%5D%20-MsMod.mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="http://172.16.50.14/DHAKA-FLIX-14/IMDb%20Top-250%20Movies/040.%20The%20Departed%20%282006%29%201080p%20%5BDual%20Audio%5D/a11.png" tvg-chno="" group-title="IMDb Top 250 Movies",040. The Departed (2006) 1080p [Dual Audio]
+http://172.16.50.14/DHAKA-FLIX-14/IMDb%20Top-250%20Movies/040.%20The%20Departed%20%282006%29%201080p%20%5BDual%20Audio%5D/The%20Departed%20%282006%29%201080p%20BluRay%20x265%20HEVC%20ESub%20%5BDual%20Audio%5D%5BHindi%202.0%2BEnglish%205.1%5D%20-mkvC.mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="http://172.16.50.14/DHAKA-FLIX-14/IMDb%20Top-250%20Movies/041.%20American%20History%20X%20%281998%29%201080p/a11.jpg" tvg-chno="" group-title="IMDb Top 250 Movies",041. American History X (1998) 1080p
+http://172.16.50.14/DHAKA-FLIX-14/IMDb%20Top-250%20Movies/041.%20American%20History%20X%20%281998%29%201080p/American%20History%20X%20%281998%29%201080p%20BluRay%20x265%20HEVC%2010bit%20AAC%205.1%20ESub-mkvA.mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="http://172.16.50.14/DHAKA-FLIX-14/IMDb%20Top-250%20Movies/042.%20Whiplash%20%282014%29%201080p/a11.jpg" tvg-chno="" group-title="IMDb Top 250 Movies",042. Whiplash (2014) 1080p
+http://172.16.50.14/DHAKA-FLIX-14/IMDb%20Top-250%20Movies/042.%20Whiplash%20%282014%29%201080p/Whiplash%20%282014%29%201080p%20BluRay%20x265%20HEVC%2010bit%20AAC%205.1%20ESub-mkvC.mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="http://172.16.50.14/DHAKA-FLIX-14/IMDb%20Top-250%20Movies/043.%20The%20Prestige%20%282006%29%201080p%20%5BDual%20Audio%5D/a11.jpg" tvg-chno="" group-title="IMDb Top 250 Movies",043. The Prestige (2006) 1080p [Dual Audio]
+http://172.16.50.14/DHAKA-FLIX-14/IMDb%20Top-250%20Movies/043.%20The%20Prestige%20%282006%29%201080p%20%5BDual%20Audio%5D/The%20Prestige%20%282006%29%201080p%20BluRay%20x265%20HEVC%20ESub%20%5BDual%20Audio%5D%5BHindi%202.0%2BEnglish%205.1%5D%20-mkvC.mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="http://172.16.50.14/DHAKA-FLIX-14/IMDb%20Top-250%20Movies/044.%20Grave%20of%20the%20Fireflies%20%281988%29%201080p%20%5BDual%20Audio%5D/a11.jpg" tvg-chno="" group-title="IMDb Top 250 Movies",044. Grave of the Fireflies (1988) 1080p [Dual Audio]
+http://172.16.50.14/DHAKA-FLIX-14/IMDb%20Top-250%20Movies/044.%20Grave%20of%20the%20Fireflies%20%281988%29%201080p%20%5BDual%20Audio%5D/Grave%20of%20the%20Fireflies%20%281988%29%201080p%20BluRay%20x265%20HEVC%20ESub%20%5BDual%20Audio%5D%5BEnglish%202.0%2BJapanese%202.0%5D%20-Prof.mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="http://172.16.50.14/DHAKA-FLIX-14/IMDb%20Top-250%20Movies/045.%20Harakiri%20%281962%29%201080p/a11.jpg" tvg-chno="" group-title="IMDb Top 250 Movies",045. Harakiri (1962) 1080p
+http://172.16.50.14/DHAKA-FLIX-14/IMDb%20Top-250%20Movies/045.%20Harakiri%20%281962%29%201080p/Harakiri%20%281962%29%20Japanese%201080p%20BluRay%20x265%20HEVC%2010bit%20ESub-LION.mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="http://172.16.50.14/DHAKA-FLIX-14/IMDb%20Top-250%20Movies/046.%20The%20Usual%20Suspects%20%281995%29%201080p%20%5BDual%20Audio%5D/a11.jpg" tvg-chno="" group-title="IMDb Top 250 Movies",046. The Usual Suspects (1995) 1080p [Dual Audio]
+http://172.16.50.14/DHAKA-FLIX-14/IMDb%20Top-250%20Movies/046.%20The%20Usual%20Suspects%20%281995%29%201080p%20%5BDual%20Audio%5D/The%20Usual%20Suspects%20%281995%29%201080p%20BluRay%20x265%20HEVC%20ESub%20%5BDual%20Audio%5D%5BHindi%202.0%2BEnglish%205.1%5D%20-mkvC.mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="http://172.16.50.14/DHAKA-FLIX-14/IMDb%20Top-250%20Movies/047.%20Casablanca%20%281942%29%201080p/a11.jpg" tvg-chno="" group-title="IMDb Top 250 Movies",047. Casablanca (1942) 1080p
+http://172.16.50.14/DHAKA-FLIX-14/IMDb%20Top-250%20Movies/047.%20Casablanca%20%281942%29%201080p/Casablanca%20%281942%29%201080p%20BluRay%20x265%20HEVC%2010bit%20AAC%201.0%20MSubs-Tigole.mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="http://172.16.50.14/DHAKA-FLIX-14/IMDb%20Top-250%20Movies/048.%20The%20Intouchables%20%282011%29%201080p/a11.jpg" tvg-chno="" group-title="IMDb Top 250 Movies",048. The Intouchables (2011) 1080p
+http://172.16.50.14/DHAKA-FLIX-14/IMDb%20Top-250%20Movies/048.%20The%20Intouchables%20%282011%29%201080p/The%20Intouchables%20%282011%29%201080p%20NF-WEB%20x264%20AAC%205.1%20ESub-mkvC.mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="http://172.16.50.14/DHAKA-FLIX-14/IMDb%20Top-250%20Movies/049.%20Cinema%20Paradiso%20%281988%29%201080p/a11.jpg" tvg-chno="" group-title="IMDb Top 250 Movies",049. Cinema Paradiso (1988) 1080p
+http://172.16.50.14/DHAKA-FLIX-14/IMDb%20Top-250%20Movies/049.%20Cinema%20Paradiso%20%281988%29%201080p/Cinema%20Paradiso%20%281988%29%20Italian%20DC%201080p%20BluRay%20x265%20HEVC%2010bit%20AAC%205.1%20ESub-Tigole.mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="http://172.16.50.14/DHAKA-FLIX-14/IMDb%20Top-250%20Movies/050.%20Modern%20Times%20%281936%29%201080p/a11.jpg" tvg-chno="" group-title="IMDb Top 250 Movies",050. Modern Times (1936) 1080p
+http://172.16.50.14/DHAKA-FLIX-14/IMDb%20Top-250%20Movies/050.%20Modern%20Times%20%281936%29%201080p/Modern%20Times%20%281936%29%201080p%20BluRay%20x265%20HEVC%2010bit%20AAC%201.0%20ESub-Tigole.mkv
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="" tvg-chno="" group-title="IMDb Top 250 Movies",
 
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="" tvg-chno="" group-title="IMDb Top 250 Movies",
+
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="" tvg-chno="" group-title="IMDb Top 250 Movies",
+
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="" tvg-chno="" group-title="IMDb Top 250 Movies",
+
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="" tvg-chno="" group-title="IMDb Top 250 Movies",
+
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="" tvg-chno="" group-title="IMDb Top 250 Movies",
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="" tvg-chno="" group-title="IMDb Top 250 Movies",
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="" tvg-chno="" group-title="IMDb Top 250 Movies",
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="" tvg-chno="" group-title="IMDb Top 250 Movies",
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="" tvg-chno="" group-title="IMDb Top 250 Movies",
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="" tvg-chno="" group-title="IMDb Top 250 Movies",
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="" tvg-chno="" group-title="IMDb Top 250 Movies",
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="" tvg-chno="" group-title="IMDb Top 250 Movies",
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="" tvg-chno="" group-title="IMDb Top 250 Movies",
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="" tvg-chno="" group-title="IMDb Top 250 Movies",
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="" tvg-chno="" group-title="IMDb Top 250 Movies",
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="" tvg-chno="" group-title="IMDb Top 250 Movies",
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="" tvg-chno="" group-title="IMDb Top 250 Movies",
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="" tvg-chno="" group-title="IMDb Top 250 Movies",
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="" tvg-chno="" group-title="IMDb Top 250 Movies",
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="" tvg-chno="" group-title="IMDb Top 250 Movies",
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="" tvg-chno="" group-title="IMDb Top 250 Movies",
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="" tvg-chno="" group-title="IMDb Top 250 Movies",
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="" tvg-chno="" group-title="IMDb Top 250 Movies",
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="" tvg-chno="" group-title="IMDb Top 250 Movies",
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="" tvg-chno="" group-title="IMDb Top 250 Movies",
+
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-logo="" tvg-chno="" group-title="IMDb Top 250 Movies",
 
 
